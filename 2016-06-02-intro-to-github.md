@@ -1,36 +1,49 @@
 
 # bLAM Class: GitHub and Open Source
 
-Note:
+Welcome! **By the end of this lesson**, you will…
 
-**This workshop is for you** if …
+- Create a **repository**
+- Make a **commit** to a repository on GitHub
+- Submit a **pull request** to a shared repository
 
-**At the end of this lesson**, you will…
-- Have made a “commit” to a repository on GitHub
-- Submitting a “pull request” to a shared repository
+--
 
-**Requirements**: A computer (Mac/Windows), the ability to download and install software on the computer, an internet connection that can support downloading software.
+## What do you need for this workshop?
 
-**Difficulty level**: Beginner (we will not use the command line for this workshop).
+- A computer (Mac/Windows)
+- The ability to download and install software on the computer
+- An internet connection that can support downloading software.
 
-_Examples for workshop planning_
+--
+
+## How difficult is this workshop?
+
+Beginner (we will not use the command line for this workshop).
+
+--
+
+## How did we design this workshop?
+
+Note: I am planning to set up either a workshop website (e.g. [Software Carpentry template](https://github.com/swcarpentry/workshop-template)) or a more simple collection of Markdown files (e.g. [this CUNY workshop on Git/GitHub](https://github.com/mckinniburgh/gitWorkshop)) on the [bLAM collective account](https://github.com/blamcollective). We also need a repository or a place within the workshop repository for students to contribute (Software Carpentry [recommends setting up a separate repo](https://github.com/swcarpentry/workshop-template#setting-up-a-separate-repository-for-learners)).
+
+Here are the models we looked at for this workshop:
 
 - [Collaboration and Writing Workflows with Git and GitHub: A GC Digital Fellows Workshop, Spring 2016](https://github.com/mckinniburgh/gitWorkshop)
 - [Building Static Websites with Jekyll and GitHub Pages](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages), Programming Historian
 - Library Carpentry. [Week 3: Git](https://github.com/LibraryCarpentry/week-three-library-carpentry/blob/master/Git_lesson.md)
 
-Note: I am planning to set up either a workshop website (e.g. [Software Carpentry template](https://github.com/swcarpentry/workshop-template)) or a more simple collection of Markdown files (e.g. [this CUNY workshop on Git/GitHub](https://github.com/mckinniburgh/gitWorkshop)) on the [bLAM collective account](https://github.com/blamcollective). We also need a repository or a place within the workshop repository for students to contribute (Software Carpentry [recommends setting up a separate repo](https://github.com/swcarpentry/workshop-template#setting-up-a-separate-repository-for-learners)). I’m working to put together a first draft of notes/slides by **May 20, 2016**. The workshop will be held on **June 2, 2016**.
-
 ---
+
 ## What should you do before the workshop?
 
-1. Set up a GitHub account
+1. [Set up a GitHub account](https://github.com/join)
 
-_Optional_
+###  Optional steps
 
-2. Download the GitHub desktop client (available for Mac or Windows)
+2. Download and install [GitHub Desktop](https://desktop.github.com/) (available for Mac or Windows)
 3. Download a terminal application (e.g. iTerm)
-4. Download and install a desktop text editor (e.g. Atom)
+4. Download and install a desktop text editor (e.g. [Atom](https://atom.io/))
 
 ---
 
@@ -39,6 +52,7 @@ _Optional_
 Note: This section is adapted from these [CUNY workshop materials](https://github.com/mckinniburgh/gitWorkshop/blob/master/2_conceptOverview.md).
 
 ---
+
 ## What is Git?
 
 **Git** is a version control tool. It lives on your computer (is local), and is accessed through the command line.
@@ -49,15 +63,18 @@ Git is the **local** power behind _version control_.
 ## What is version control?
 
 ---
+
 ## What is GitHub?
 
-**Github** is a hosting service for git repositories. You must first set up an account and configure it on your computer. Once your local **git** repository and **Github** are connected, you can make copies of other users' repositories, edit them, and send your proposed changes back to the user who can then choose to incorporate your work into their repository.
+**Github** is a hosting service for git repositories. You must first set up an account and configure it on your computer.
+
+Once your local **git** repository and **Github** are connected, you can make copies of other users' repositories, edit them, and send your proposed changes back to the user who can then choose to incorporate your work into their repository.
 
 Github _connects_ Git repositories remotely and is the power behind _collaboration_.
 
 ---
-## Why use GitHub?
 
+## Why use GitHub?
 
 Here are three reasons that people and organizations are using GitHub.
 
@@ -87,7 +104,7 @@ This workshop _does not_ teach you how to use git using the command line. Here a
 
 Galleries, libraries, archives and museums are using GitHub to share and collaborate around a variety of things. These include:
 
- - Code
+- Code
 - Data
 - Maps or Geodata
 - Writing
@@ -157,9 +174,11 @@ Try [Choose a License](http://choosealicense.com/)
 ## Let's build something
 
 ---
+
 ## Why use plain text?
 
 --
+
 ## What is Markdown?
 This section is via the CUNY tutorial.
 
@@ -173,6 +192,7 @@ For a cheat-sheet to get you started, read here: [GitHub Markdown Cheatsheet](ht
 For more: [Dennis Tenen and Grant Wythoff, "Sustainable Authorship in Plain Text Using Pandoc and Markdown."](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 
 --
+
 ## Resources on Markdown
 
 - [Getting Started with Markdown](http://programminghistorian.org/lessons/getting-started-with-markdown), Programming Historian
@@ -183,6 +203,7 @@ For more: [Dennis Tenen and Grant Wythoff, "Sustainable Authorship in Plain Text
 > Markdown is a way to write content for the web. It’s written in what nerds like to call “plaintext,” which is exactly the sort of text you’re used to writing and seeing. Plaintext is just the regular alphabet, with a few familiar symbols, like asterisks ( \* ) and backticks ( \` ). Unlike cumbersome word processing applications, text written in Markdown can be easily shared between computers, mobile phones, and people. It’s quickly becoming the writing standard for academics, scientists, writers, and many more. Websites like GitHub and reddit use Markdown to style their comments. If you have ten minutes, you can learn Markdown!
 
 ---
+
 # More Fun Stuff with GitHub
 
 - [Fork-n-go projects](http://jlord.us/forkngo/)

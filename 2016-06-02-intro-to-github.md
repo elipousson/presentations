@@ -1,6 +1,8 @@
 
 # bLAM Class: GitHub and Open Source
 
+Note:
+
 **This workshop is for you** if …
 
 **At the end of this lesson**, you will…
@@ -17,10 +19,10 @@ _Examples for workshop planning_
 - [Building Static Websites with Jekyll and GitHub Pages](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages), Programming Historian
 - Library Carpentry. [Week 3: Git](https://github.com/LibraryCarpentry/week-three-library-carpentry/blob/master/Git_lesson.md)
 
-**Note**: I am planning to set up either a workshop website (e.g. [Software Carpentry template](https://github.com/swcarpentry/workshop-template)) or a more simple collection of Markdown files (e.g. [this CUNY workshop on Git/GitHub](https://github.com/mckinniburgh/gitWorkshop)) on the [bLAM collective account](https://github.com/blamcollective). We also need a repository or a place within the workshop repository for students to contribute (Software Carpentry [recommends setting up a separate repo](https://github.com/swcarpentry/workshop-template#setting-up-a-separate-repository-for-learners)). I’m working to put together a first draft of notes/slides by **May 20, 2016**. The workshop will be held on **June 2, 2016**.
+Note: I am planning to set up either a workshop website (e.g. [Software Carpentry template](https://github.com/swcarpentry/workshop-template)) or a more simple collection of Markdown files (e.g. [this CUNY workshop on Git/GitHub](https://github.com/mckinniburgh/gitWorkshop)) on the [bLAM collective account](https://github.com/blamcollective). We also need a repository or a place within the workshop repository for students to contribute (Software Carpentry [recommends setting up a separate repo](https://github.com/swcarpentry/workshop-template#setting-up-a-separate-repository-for-learners)). I’m working to put together a first draft of notes/slides by **May 20, 2016**. The workshop will be held on **June 2, 2016**.
 
 ---
-## Before the workshop
+## What should you do before the workshop?
 
 1. Set up a GitHub account
 
@@ -31,9 +33,10 @@ _Optional_
 4. Download and install a desktop text editor (e.g. Atom)
 
 ---
-# Getting Started with GitHub
 
-This section is adapted from these [CUNY workshop materials](https://github.com/mckinniburgh/gitWorkshop/blob/master/2_conceptOverview.md).
+# Let's talk about GitHub
+
+Note: This section is adapted from these [CUNY workshop materials](https://github.com/mckinniburgh/gitWorkshop/blob/master/2_conceptOverview.md).
 
 ---
 ## What is Git?
@@ -41,6 +44,9 @@ This section is adapted from these [CUNY workshop materials](https://github.com/
 **Git** is a version control tool. It lives on your computer (is local), and is accessed through the command line.
 
 Git is the **local** power behind _version control_.
+
+---
+## What is version control?
 
 ---
 ## What is GitHub?
@@ -52,33 +58,32 @@ Github _connects_ Git repositories remotely and is the power behind _collaborati
 ---
 ## Why use GitHub?
 
-**Ask participants**: why are you here? Why do you want to use GitHub?
 
-**Share**: Here are a few reasons that people and organizations are using GitHub.
-
-Here are three reasons:
+Here are three reasons that people and organizations are using GitHub.
 
 - To use version control
 - To share open-source projects
 - To facilitate collaboration
 
-This workshop is on GitHub but does not cover how to use git using the command line. To learn how to use git, try an interactive tutorial like [tryGit](https://try.github.io/levels/1/challenges/1) (also [available through Code School](https://www.codeschool.com/courses/try-git)), [Learn Git](https://www.codecademy.com/learn/learn-git) from Codecademy, or the [Git It](https://github.com/jlord/git-it-electron) application.
+Note: **Ask participants**: why are you here? Why do you want to use GitHub?
+---
 
-**Command Line**: The computer program we use to input Git commands. On a Mac, it’s called Terminal. On a PC, it’s a non-native program that you download when you download Git for the first time (we’ll do that in the next section). In both cases, you type text-based commands, known as prompts, into the screen, instead of using a mouse.
+## Resources on Git and Version Control
 
-**Repository**: A directory or storage space where your projects can live. Sometimes GitHub users shorten this to “repo.” It can be local to a folder on your computer, or it can be a storage space on GitHub or another online host. You can keep code files, text files, image files, you name it, inside a repository.
+- [Git Tutorials](https://www.atlassian.com/git/tutorials)
+- [A Visual Guide to Version Control](http://betterexplained.com/articles/a-visual-guide-to-version-control/)
 
-**Version Control**: Basically, the purpose Git was designed to serve. When you have a Microsoft Word file, you either overwrite every saved file with a new save, or you save multiple versions. With Git, you don’t have to. It keeps “snapshots” of every point in time in the project’s history, so you can never lose or overwrite it.
+--
+## How do I use git on the command line?
 
-**Commit**: This is the command that gives Git its power. When you commit, you are taking a “snapshot” of your repository at that point in time, giving you a checkpoint to which you can reevaluate or restore your project to any previous state.
+This workshop _does not_ teach you how to use git using the command line. Here are a few resources do teach git:
 
-**Branch**: How do multiple people work on a project at the same time without Git getting them confused? Usually, they “branch off” of the main project with their own versions full of changes they themselves have made. After they’re done, it’s time to “merge” that branch back with the “master,” the main directory of the project.
-
+- [tryGit](https://try.github.io/levels/1/challenges/1) from [Code School](https://www.codeschool.com/courses/try-git)
+- [Learn Git](https://www.codecademy.com/learn/learn-git) from Codecademy
+- [Git It](https://github.com/jlord/git-it-electron) application
 
 ---
 ## How are GLAMs using GitHub?
-
-**Ask participants:** while we look at these examples, you can “star” any repositories that you find interesting or want to refer back to. When you are logged in, your “stars” are available here [https://github.com/stars](https://github.com/stars) You can find more interesting repositories at [https://github.com/explore](https://github.com/explore)
 
 Galleries, libraries, archives and museums are using GitHub to share and collaborate around a variety of things. These include:
 
@@ -88,7 +93,11 @@ Galleries, libraries, archives and museums are using GitHub to share and collabo
 - Writing
 - Websites
 
-Here are a few examples for each of those categories.
+Note: Ask participants – while we look at these examples, you can “star” any repositories that you find interesting or want to bookmark.
+
+For logged-in users, your “stars” are available here [https://github.com/stars](https://github.com/stars)
+
+You can find more interesting repositories at [https://github.com/explore](https://github.com/explore)
 
 --
 
@@ -110,38 +119,47 @@ In 2015, the New York Public Library published a [location dataset](https://gith
 ### Writing
 In 2015, the Andy Warhol Museum drafted and published their [digital strategy documents on GitHub](https://thewarholmuseum.github.io/digital-strategy/) using a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://thewarholmuseum.github.io/digital-strategy/LICENSE.txt) license.
 
----
+--
 
 ### Websites
 In 2016, the City of Los Angeles Department of Cultural Affairs published their [WordPress child theme on GitHub](https://github.com/dcadigital/cultural-affairs-wp-theme). Recently, the Australian Center for the Moving Image created [a website template](https://github.com/ACMILabs/static-museum-audio-guide) using Jekyll to create a museum audio guide.
 
 ---
+
 ## Open Licensing
 You may have noticed that many of these projects use Creative Commons or other **open licenses**.
 
-- **What is an open license?** A license is a document that specifies what can and cannot be done with a work (whether sound, text, image or multimedia). It grants permissions and states restrictions. Broadly speaking, an open license is one which grants permission to access, re-use and redistribute a work with few or no restrictions.
-- **Why use an open license?** Works that are published without an explicit license are usually subject to the copyright laws of the jurisdiction they are published in by default. Open licenses enable creators to allow more freedom in what others can do with their works.
-- [Choose a License](http://choosealicense.com/)
+--
 
+### What is an open license?
+A license is a document that specifies what can and cannot be done with a work (whether sound, text, image or multimedia). It grants permissions and states restrictions. Broadly speaking, an open license is one which grants permission to access, re-use and redistribute a work with few or no restrictions.
 
-## What is version control?
+--
 
-_Related Links_
+### Why use an open license?
+Works that are published without an explicit license are usually subject to the copyright laws of the jurisdiction they are published in by default. Open licenses enable creators to allow more freedom in what others can do with their works.
 
-- [Git Tutorials](https://www.atlassian.com/git/tutorials)
-- [A Visual Guide to Version Control](http://betterexplained.com/articles/a-visual-guide-to-version-control/)
-- CodeAcademy: [Learn Git](https://www.codecademy.com/learn/learn-git)
+--
 
-## Getting started with GitHub
+### How do you choose a license?
+
+Try [Choose a License](http://choosealicense.com/)
+
+---
+
+## Getting Started with GitHub
 
 - [Getting Started with GitHub Desktop](https://help.github.com/desktop/guides/getting-started/)
 - [GitHub for Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
 
+---
+
+## Let's build something
+
+---
 ## Why use plain text?
 
-## Getting started with Markdown
-
-
+--
 ## What is Markdown?
 This section is via the CUNY tutorial.
 
@@ -154,7 +172,8 @@ For a cheat-sheet to get you started, read here: [GitHub Markdown Cheatsheet](ht
 
 For more: [Dennis Tenen and Grant Wythoff, "Sustainable Authorship in Plain Text Using Pandoc and Markdown."](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 
-
+--
+## Resources on Markdown
 
 - [Getting Started with Markdown](http://programminghistorian.org/lessons/getting-started-with-markdown), Programming Historian
 - [Mastering Markdown – GitHub](https://guides.github.com/features/mastering-markdown/)
@@ -163,7 +182,8 @@ For more: [Dennis Tenen and Grant Wythoff, "Sustainable Authorship in Plain Text
 [Markdown Tutorial](http://www.markdowntutorial.com/):
 > Markdown is a way to write content for the web. It’s written in what nerds like to call “plaintext,” which is exactly the sort of text you’re used to writing and seeing. Plaintext is just the regular alphabet, with a few familiar symbols, like asterisks ( \* ) and backticks ( \` ). Unlike cumbersome word processing applications, text written in Markdown can be easily shared between computers, mobile phones, and people. It’s quickly becoming the writing standard for academics, scientists, writers, and many more. Websites like GitHub and reddit use Markdown to style their comments. If you have ten minutes, you can learn Markdown!
 
-# Fun Stuff!
+---
+# More Fun Stuff with GitHub
 
 - [Fork-n-go projects](http://jlord.us/forkngo/)
 - [GitHub Pages](https://pages.github.com/)

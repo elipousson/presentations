@@ -1,6 +1,9 @@
 
-# bLAM Class: GitHub and Open Source
-[Eli Pousson](http://elipousson.github.io) for the [bLAM Collective](https://blamcollective.wordpress.com/), 2016 June 2
+# bLAM Class
+## Introduction to GitHub
+[Eli Pousson](https://elipousson.github.io), [Baltimore Heritage](http://baltimoreheritage.org/) | 2016 June 2
+
+[@blamcollective](https://twitter.com/blamcollective) | [bLAM Collective](https://blamcollective.wordpress.com)
 
 ---
 
@@ -20,27 +23,25 @@ By the **end of this lesson**, you will:
 
 - A computer (Mac/Windows)
 - The ability to download and install software on the computer
-- An internet connection that can support downloading software.
+- An internet connection that can support downloading software
 
 --
 
 ## How difficult is this workshop?
-Beginner (we will not use the command line for this workshop).
+Beginner friendly!
 
 --
 
 ![Join GitHub](/presentations/images/2016-06-01-join-github.png)
 
-[Join GitHub](https://github.com/join) before we get started.
+Make sure to [join GitHub](https://github.com/join) before we get started.
 
 ---
 
-## What is git?
 ![git logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
-**Git** is a version control tool. It lives on your computer (is local), and is accessed through the command line.
-
-Git is the **local** power behind _version control_.
+## What is git?
+**Git** is a version control tool. Git lives locally on your computer and you access it through the command line. Git is the **local** power behind _version control_.
 
 Note: Excerpt from [CUNY workshop materials](https://github.com/mckinniburgh/gitWorkshop/blob/master/2_conceptOverview.md). Library Carpentry: "Git is a 'free and open source distributed version control system'. We probably know what free and open source means but we might be less sure about what a 'distributed version control system is'. One way to understand what Git and version control systems do is to look at the types of problems they are built to address."
 
@@ -52,16 +53,12 @@ Note: [Library Carpentry](https://github.com/LibraryCarpentry/week-three-library
 
 ---
 
-## What is GitHub?
 ![GitHub logo](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png)
 
-**GitHub** is a hosting service for git repositories. You can use GitHub with your browser, desktop applications or the command line.
+## What is GitHub?
+**GitHub** is a hosting service for git repositories. You can use GitHub using your browser, desktop applications, or the command line. GitHub connects Git repositories **remotely** and is the power behind _collaboration_.
 
-Once your local **git** repository and **Github** are connected, you can make copies of other users' repositories, edit them, and send your proposed changes back to the user who can then choose to incorporate your work into their repository.
-
-Github _connects_ Git repositories remotely and is the power behind _collaboration_.
-
-Note: Above is  from the [CUNY workshop materials](https://github.com/mckinniburgh/gitWorkshop/blob/master/2_conceptOverview.md).  [Library Carpentry](https://github.com/LibraryCarpentry/week-three-library-carpentry/blob/master/Git_lesson.md): "We often hear the terms Git and Github used interchangeably but the are slightly different things. Git refers to the software and principles used for a particular flavour of version control (there are other systems like mercurial and SVN). Github is a popular site which hosts git repositories. The majority of the content that Github hosts is open source software though increasingly it is being used for other projects such as open access journals and constantly updated text books. Github is a great place to learn how to use Git but once you have learned the ideas and processes behind github you can used Git on other storage systems or host repositories on your own server if you wanted to keep code private or you wanted to encrypt your repository."
+Note: From the [CUNY workshop materials](https://github.com/mckinniburgh/gitWorkshop/blob/master/2_conceptOverview.md): Once your local **git** repository and **Github** are connected, you can make copies of other users' repositories, edit them, and send your proposed changes back to the user who can then choose to incorporate your work into their repository.  [Library Carpentry](https://github.com/LibraryCarpentry/week-three-library-carpentry/blob/master/Git_lesson.md): "We often hear the terms Git and Github used interchangeably but the are slightly different things. Git refers to the software and principles used for a particular flavour of version control (there are other systems like mercurial and SVN). Github is a popular site which hosts git repositories. The majority of the content that Github hosts is open source software though increasingly it is being used for other projects such as open access journals and constantly updated text books. Github is a great place to learn how to use Git but once you have learned the ideas and processes behind github you can used Git on other storage systems or host repositories on your own server if you wanted to keep code private or you wanted to encrypt your repository."
 
 ---
 
@@ -71,6 +68,7 @@ Here are three reasons that people and organizations are using GitHub.
 - To use version control
 - To share open-source projects
 - To facilitate collaboration
+- To keep a record of changes
 
 Note: **Ask participants**: why are you here? Why do you want to use GitHub?
 
@@ -93,7 +91,7 @@ You can _star_ any repository to save it to [your account](https://github.com/st
 --
 
 ### Code
-A variety of software projects used by libraries, galleries, archives and museums host their code on GitHub including [Zotero](https://github.com/zotero/zotero), [Omeka](https://github.com/omeka/Omeka), [CollectiveAccess](https://github.com/collectiveaccess) and [CollectionSpace](https://github.com/collectionspace).
+Open source software projects developed for and by GLAMs host code on GitHub. Examples include [Zotero](https://github.com/zotero/zotero), [Omeka](https://github.com/omeka/Omeka), [CollectiveAccess](https://github.com/collectiveaccess) and [CollectionSpace](https://github.com/collectionspace).
 
 --
 
@@ -102,7 +100,7 @@ A variety of software projects used by libraries, galleries, archives and museum
 --
 
 ### Data
-In 2012, the Smithsonian Cooper-Hewitt National Design Museum in New York published their [collection metadata](http://labs.cooperhewitt.org/2012/releasing-collection-github/) to GitHub using a Creative Commons Zero license. The [Tate Gallery](https://github.com/tategallery/collection) and [Museum of Modern Art](https://github.com/MuseumofModernArt/collection)soon followed.
+In 2012, the Smithsonian Cooper-Hewitt National Design Museum in New York published their [collection metadata](http://labs.cooperhewitt.org/2012/releasing-collection-github/) to GitHub using a Creative Commons Zero license. The [Tate Gallery](https://github.com/tategallery/collection) and [Museum of Modern Art](https://github.com/MuseumofModernArt/collection) released their metadata soon after.
 
 --
 
@@ -169,18 +167,21 @@ Learn more about licenses with [Choose a License](http://choosealicense.com/).
 
 --
 
-### Users
 ![GitHub user page for elipousson](/presentations/images/2016-06-01-elipousson-github.png)
 
+### Users
+
 --
 
-### Organizations
 ![GitHub organization page for baltimoreheritage](/presentations/images/2016-06-01-baltimoreheritage-github.png)
 
+### Organizations
+
 --
 
-### Repositories
 ![GitHub repostitory page for bLAM Class](/presentations/images/2016-06-01-blamclass-github.png)
+
+### Repositories
 
 ---
 
@@ -195,21 +196,42 @@ Note:  [Library Carpentry](https://github.com/LibraryCarpentry/week-three-librar
 
 ---
 
-## What do you find in a repository?
+## What do you find on a repository page?
 
+- Name
+- Description
 - Code
-- Issues
+- Branches
 - Commits
 - Pull Requests
+- Issues
+- Wikis
+
+Read the [18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/) to learn more about writing short and clear repo descriptions, readable READMEs, and clear and concise issues.
 
 ---
 
-## What do you find in a repository?
+## What files you find in a repository?
 
 - README.md
 - CONTRIBUTING.md
 - LICENSE
 - .gitignore
+
+---
+
+# Creating a repository using the browser
+
+- Create a [new repository](https://github.com/new)
+- Name the "repo (your-user-name).github.io"
+- Add a short description, e.g. "My website."
+- Check the box labeled "Initialize this repository with a README"
+- Select Jekyll for .gitignore
+ - Select Creative Commons Zero for license
+
+--
+
+![Create a new repository](/presentations/images/2016-06-02-github-new.png)
 
 ---
 
@@ -243,6 +265,8 @@ Note: [Library Carpentry](https://github.com/LibraryCarpentry/week-three-library
 
 ## Let's build a site with GitHub Pages
 
+- [GitHub Pages](https://pages.github.com/)
+- [Minimal: A Theme for GitHub Pages](https://github.com/orderedlist/minimal)
 ---
 
 ## Tools to try with GitHub
@@ -264,13 +288,14 @@ You can use free web applications and services to create or edit files hosted on
 [geojson.io](http://geojson.io/) (handy [Chrome extension](https://chrome.google.com/webstore/detail/geojsonio/oibjgofbhldcajfamjganpeacipebckp))
 
 ---
-# Try using these with GitHub
+# More things to use  with GitHub
 
 - [Fork-n-go projects](http://jlord.us/forkngo/)
-- [GitHub Pages](https://pages.github.com/)
 - Images (about [rendering and diffing images](https://help.github.com/articles/rendering-and-diffing-images/))
 - [Blocks](http://bl.ocks.org/-/about) (handy [browser extensions](https://github.com/mbostock/bl.ocks.org/blob/master/README.md))
+
 ---
+
 # What do you next?
 
 After the workshop, you may want to download and install:
@@ -290,6 +315,12 @@ After the workshop, you may want to download and install:
 --
 
 ![Atom](/presentations/images/2016-06-02-atom-io.png)
+
+---
+
+![GitHub for Good](/presentations/images/2016-06-02-github-nonprofit.png)
+
+Apply for a non-profit account through [GitHub for Good](https://github.com/nonprofit).
 
 ---
 

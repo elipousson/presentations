@@ -54,6 +54,7 @@ Note: This section is adapted from these [CUNY workshop materials](https://githu
 ---
 
 ## What is Git?
+![git logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
 **Git** is a version control tool. It lives on your computer (is local), and is accessed through the command line.
 
@@ -65,6 +66,7 @@ Git is the **local** power behind _version control_.
 ---
 
 ## What is GitHub?
+![GitHub logo](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png)
 
 **Github** is a hosting service for git repositories. You must first set up an account and configure it on your computer.
 
@@ -134,6 +136,9 @@ In 2015, the New York Public Library published a [location dataset](https://gith
 --
 
 ### Writing
+
+![The Andy Warhol Museum, Pittsburgh, floor 4 - Mao installation, © Abby Warhola](http://www.artfixdaily.com/images/newsfeed/Mar21_warhol_Museum972x648.jpg)
+
 In 2015, the Andy Warhol Museum drafted and published their [digital strategy documents on GitHub](https://thewarholmuseum.github.io/digital-strategy/) using a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://thewarholmuseum.github.io/digital-strategy/LICENSE.txt) license.
 
 --

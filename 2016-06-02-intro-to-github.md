@@ -287,25 +287,24 @@ Note: [Library Carpentry](https://github.com/LibraryCarpentry/week-three-library
 
 ---
 
-## Tools to try with GitHub
+## More things to try with GitHub
 
 You can use free web applications and services to create or edit files hosted on GitHub.
 
 --
 
-### prose.io
-
-![prose.io](/presentations/images/2016-06-01-prose-io.png)
+[![prose.io](/presentations/images/2016-06-01-prose-io.png)](https://prose.io)
 
 [prose.io](https://prose.io) (works well with this [Chrome extension](https://chrome.google.com/webstore/detail/prose/onippmookoohgjgccejcjmlpoohbjgjn))
 
 --
 
-### geojson.io
+[![geojson.io](/presentations/images/2016-06-02-geojson-io.png)](http://geojson.io/)
 
 [geojson.io](http://geojson.io/) (works well with this [Chrome extension](https://chrome.google.com/webstore/detail/geojsonio/oibjgofbhldcajfamjganpeacipebckp))
 
----
+--
+
 ## More things to try!
 
 - Use a [fork-n-go project](http://jlord.us/forkngo/)
@@ -342,13 +341,21 @@ You can also apply for a non-profit account through [GitHub for Good](https://gi
 
 ---
 
-## Additional Resources on Git and GitHub
+## Resources on Git and GitHub
 
 - [Resources for learning git](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 - [Git Tutorials](https://www.atlassian.com/git/tutorials)
 - [Getting Started with GitHub Desktop](https://help.github.com/desktop/guides/getting-started/)
 - [GitHub for Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
 - [Building Static Websites with Jekyll and GitHub Pages](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages), Programming Historian
+
+---
+
+# bLAM Class
+## Introduction to GitHub
+[Eli Pousson](https://elipousson.github.io), [Baltimore Heritage](http://baltimoreheritage.org/) | 2016 June 2
+
+[@blamcollective](https://twitter.com/blamcollective) | [bLAM Collective](https://blamcollective.wordpress.com)
 
 ---
 

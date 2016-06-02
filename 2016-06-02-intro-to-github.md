@@ -6,7 +6,7 @@
 
 ## Welcome!
 
-**By the end of this lesson**, you will…
+**By the end of this lesson**, you will:
 
 - Learn about **git** and **GitHub**
 - Create a **repository**
@@ -26,13 +26,36 @@
 ## How difficult is this workshop?
 
 Beginner (we will not use the command line for this workshop).
----
+--
 
 ## What should you do before the workshop?
 
-![Join GitHub](/images/2016-06-01-join-github.png)
+![Join GitHub](/presentations/images/2016-06-01-join-github.png)
 
 [Join GitHub](https://github.com/join)
+
+---
+
+## What is git?
+![git logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+
+**Git** is a version control tool. It lives on your computer (is local), and is accessed through the command line.
+
+Git is the **local** power behind _version control_.
+
+Note: Excerpt from [CUNY workshop materials](https://github.com/mckinniburgh/gitWorkshop/blob/master/2_conceptOverview.md).
+---
+
+## What is GitHub?
+![GitHub logo](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png)
+
+**Github** is a hosting service for git repositories. You must first set up an account and configure it on your computer.
+
+Once your local **git** repository and **Github** are connected, you can make copies of other users' repositories, edit them, and send your proposed changes back to the user who can then choose to incorporate your work into their repository.
+
+Github _connects_ Git repositories remotely and is the power behind _collaboration_.
+
+Note: Excerpt from [CUNY workshop materials](https://github.com/mckinniburgh/gitWorkshop/blob/master/2_conceptOverview.md).
 
 ---
 ## How are GLAMs using GitHub?
@@ -47,7 +70,7 @@ You can "star" any repository to save it to [your account](https://github.com/st
 
 --
 
-![Zotero website](/images/2016-06-01-zotero.png)
+![Zotero website](/presentations/images/2016-06-01-zotero.png)
 
 --
 
@@ -56,7 +79,7 @@ A variety of software projects used by libraries, galleries, archives and museum
 
 --
 
-![Cooper-Hewitt collection repository](/images/2016-06-01-cooper-hewitt-collection.png)
+![Cooper-Hewitt collection repository](/presentations/images/2016-06-01-cooper-hewitt-collection.png)
 
 --
 
@@ -65,7 +88,7 @@ In 2012, the Smithsonian Cooper-Hewitt National Design Museum in New York publis
 
 --
 
-![New York Public Library Negro Motorist Green Book Web Map ](/images/2016-06-01-nypl-greenbook-map.png)
+![New York Public Library Negro Motorist Green Book Web Map ](/presentations/images/2016-06-01-nypl-greenbook-map.png)
 
 --
 
@@ -74,7 +97,7 @@ In 2015, the New York Public Library published a [location dataset](https://gith
 
 --
 
-![Andy Warhol Museum Digital Strategy ](/images/2016-06-01-andy-warhol-museum-digitalstrategy.png)
+![Andy Warhol Museum Digital Strategy ](/presentations/images/2016-06-01-andy-warhol-museum-digitalstrategy.png)
 
 --
 
@@ -83,7 +106,7 @@ In 2015, the Andy Warhol Museum drafted and published their [digital strategy do
 
 --
 
-![ACMI Labs static museum audio guide](/images/2016-06-01-static-museum-audio-guide.png)
+![ACMI Labs static museum audio guide](/presentations/images/2016-06-01-static-museum-audio-guide.png)
 
 --
 
@@ -95,38 +118,16 @@ Note: In 2016, the City of Los Angeles Department of Cultural Affairs published 
 --
 ## Exploring GitHub
 
-![Explore GitHub](/images/2016-06-01-explore-github.png)
+![Explore GitHub](/presentations/images/2016-06-01-explore-github.png)
 
 ---
+## Why use GitHub?
 
-# Let's talk about GitHub
-
-Note: This section is adapted from these [CUNY workshop materials](https://github.com/mckinniburgh/gitWorkshop/blob/master/2_conceptOverview.md).
-
----
-
-## What is Git?
-![git logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
-
-**Git** is a version control tool. It lives on your computer (is local), and is accessed through the command line.
-
-Git is the **local** power behind _version control_.
-
----
-## What is version control?
-
+--
 !["Final".doc comic ](http://www.phdcomics.com/comics/archive/phd101212s.gif)
 
 ---
-
-## What is GitHub?
-![GitHub logo](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png)
-
-**Github** is a hosting service for git repositories. You must first set up an account and configure it on your computer.
-
-Once your local **git** repository and **Github** are connected, you can make copies of other users' repositories, edit them, and send your proposed changes back to the user who can then choose to incorporate your work into their repository.
-
-Github _connects_ Git repositories remotely and is the power behind _collaboration_.
+# Let's talk about GitHub
 
 ---
 
@@ -180,7 +181,7 @@ Works that are published without an explicit license are usually subject to the 
 
 ### How do you choose a license?
 
-![choosealicense.com](/images/2016-06-01-choosealicense.png)
+![choosealicense.com](/presentations/images/2016-06-01-choosealicense.png)
 
 Try [Choose a License](http://choosealicense.com/)
 
@@ -201,15 +202,15 @@ Try [Choose a License](http://choosealicense.com/)
 
 --
 ## Users
-![GitHub user page for elipousson](/images/2016-06-01-elipousson-github.png)
+![GitHub user page for elipousson](/presentations/images/2016-06-01-elipousson-github.png)
 --
 
 ## Organizations
-![GitHub organization page for baltimoreheritage](/images/2016-06-01-baltimoreheritage-github.png)
+![GitHub organization page for baltimoreheritage](/presentations/images/2016-06-01-baltimoreheritage-github.png)
 
 --
 ## Repositories
-![GitHub repostitory page for bLAM Class](/images/2016-06-01-blamclass-github.png)
+![GitHub repostitory page for bLAM Class](/presentations/images/2016-06-01-blamclass-github.png)
 
 --
 
@@ -266,7 +267,7 @@ There are many free web applications and services that make it easier to create 
 
 ### prose.io
 
-![prose.io](/images/2016-06-01-prose-io.png)
+![prose.io](/presentations/images/2016-06-01-prose-io.png)
 
 [prose.io](https://prose.io) (handy [Chrome extension](https://chrome.google.com/webstore/detail/prose/onippmookoohgjgccejcjmlpoohbjgjn))
 

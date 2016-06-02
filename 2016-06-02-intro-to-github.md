@@ -103,7 +103,7 @@ Open source software projects developed for and by GLAMs host code on GitHub. Ex
 
 --
 
-[![Cooper-Hewitt collection repository](/presentations/images/2016-06-01-cooperhewitt-collection.png)](https://github.com/cooperhewitt/collection)
+[![Cooper-Hewitt collection repository](/presentations/images/2016-06-02-cooperhewitt-collection.png)](https://github.com/cooperhewitt/collection)
 
 --
 

@@ -49,7 +49,13 @@ Note: Excerpt from [CUNY workshop materials](https://github.com/mckinniburgh/git
 
 ## What is version control?
 
+It’s why we use “Save As”.
+
 Note: [Library Carpentry](https://github.com/LibraryCarpentry/week-three-library-carpentry/blob/master/Git_lesson.md): "Many of us will have had an experience similar to this. We are working on an important piece of work and we attempt to maintain multiple version of this document in different stages of completeness.Version control addresses this problem by recording the changes we make to a document as we proceed. Each of the 'commits' we make is recorded and we can go back across a document or a set of documents and look at what changes have been made. Version control allow us to take this one step further and not only record changes to a document one person is working on but allows multiple people to work on a document and record the changes they make. It is then possible to merge these multiple documents. This developed out of a need for groups writing code together to be able to work on coding projects together without having to wait for someone else to finish working on something or having to manually compare changes that are made."
+
+---
+
+[![PhD Comics - "Final".doc](/presentations/images/phd101212s.gif)](http://www.phdcomics.com/comics/archive.php?comicid=1531)
 
 ---
 
@@ -174,7 +180,7 @@ You can use [Choose a License](http://choosealicense.com/) to learn more about d
 
 --
 
-[]![GitHub organization page for baltimoreheritage](/presentations/images/2016-06-01-baltimoreheritage-github.png)](https://github.com/baltimoreheritage)
+[![GitHub organization page for baltimoreheritage](/presentations/images/2016-06-01-baltimoreheritage-github.png)](https://github.com/baltimoreheritage)
 
 ### Organizations
 
@@ -227,12 +233,15 @@ Read the [18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/)
 
 ## Creating a repository using the browser
 
+Create a [new repository](https://github.com/new).
+
 --
 
 [![Create a new repository](/presentations/images/2016-06-02-github-new.png)](https://github.com/new)
 
-Create a [new repository](https://github.com/new).
 --
+
+## Creating a repository using the browser
 
 - Name the "repo (your-username).github.io"
 - Add a short description, e.g. "My website."
@@ -259,7 +268,7 @@ Note: This section is via the CUNY tutorial. Markdown is a markup (I know!) styl
 ## Learn more about Markdown
 
 - [Getting Started with Markdown](http://programminghistorian.org/lessons/getting-started-with-markdown), Programming Historian
-- [Mastering Markdown – GitHub](https://guides.github.com/features/mastering-markdown/)
+- [Mastering Markdown from GitHub](https://guides.github.com/features/mastering-markdown/)
 - [Dennis Tenen and Grant Wythoff, "Sustainable Authorship in Plain Text Using Pandoc and Markdown."](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 
 ---
@@ -268,15 +277,9 @@ Note: This section is via the CUNY tutorial. Markdown is a markup (I know!) styl
 
 - You can upload files, fork an existing repository, or use the [automatic page generator]( https://help.github.com/articles/creating-pages-with-the-automatic-generator/)
 - To upload files or use the automatic page generator, create a new repository named your-username.github.io, where username is your username (or organization name) on GitHub.
+- Here is a simple theme we can use to build a site [Minimal: A Theme for GitHub Pages](https://github.com/orderedlist/minimal)
 
 Note: [Library Carpentry](https://github.com/LibraryCarpentry/week-three-library-carpentry/blob/master/Git_lesson.md): Github pages allow you to version control your website. This is useful for a lot different reasons. It allows you to keep a record of what changes you have made. It allows people to reference your website at a particular point in time and (if you make you're source open) to see what it was like at that particular point in time. This is very useful for academic citations. Most people have had the experience of following up a reference to a website and either getting a 404 error or seeing something completely different. Although using version on your site doesn't guarantee this won't happen it does make it easier to manage old versions of your site.
-
----
-
-## Let's build a site with GitHub Pages
-
-- [GitHub Pages](https://pages.github.com/)
-- [Minimal: A Theme for GitHub Pages](https://github.com/orderedlist/minimal)
 
 ---
 
@@ -290,13 +293,13 @@ You can use free web applications and services to create or edit files hosted on
 
 ![prose.io](/presentations/images/2016-06-01-prose-io.png)
 
-[prose.io](https://prose.io) (handy [Chrome extension](https://chrome.google.com/webstore/detail/prose/onippmookoohgjgccejcjmlpoohbjgjn))
+[prose.io](https://prose.io) (works well with this [Chrome extension](https://chrome.google.com/webstore/detail/prose/onippmookoohgjgccejcjmlpoohbjgjn))
 
 --
 
 ### geojson.io
 
-[geojson.io](http://geojson.io/) (handy [Chrome extension](https://chrome.google.com/webstore/detail/geojsonio/oibjgofbhldcajfamjganpeacipebckp))
+[geojson.io](http://geojson.io/) (works well with this [Chrome extension](https://chrome.google.com/webstore/detail/geojsonio/oibjgofbhldcajfamjganpeacipebckp))
 
 ---
 ## More things to try!
@@ -315,23 +318,23 @@ After the workshop, you may want to download and install:
 - A terminal application (try [iTerm2](http://iterm2.com/) for OS X or [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) for Windows)
 - A desktop text editor (try [Atom](https://atom.io/))
 
---
-
-![GitHub Desktop](/presentations/images/2016-06-02-github-desktop.png)
+You can also apply for a non-profit account through [GitHub for Good](https://github.com/nonprofit).
 
 --
 
-![iTerm2](/presentations/images/2016-06-02-iterm2.png)
+[![GitHub Desktop](/presentations/images/2016-06-02-github-desktop.png)](https://desktop.github.com/)
 
 --
 
-![Atom](/presentations/images/2016-06-02-atom-io.png)
+[![iTerm2](/presentations/images/2016-06-02-iterm2.png)](http://iterm2.com/)
 
----
+--
 
-![GitHub for Good](/presentations/images/2016-06-02-github-nonprofit.png)
+[![Atom](/presentations/images/2016-06-02-atom-io.png)](https://atom.io/)
 
-Apply for a non-profit account through [GitHub for Good](https://github.com/nonprofit).
+--
+
+[![GitHub for Good](/presentations/images/2016-06-02-github-nonprofit.png)](https://github.com/nonprofit).
 
 ---
 

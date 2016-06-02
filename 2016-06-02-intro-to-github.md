@@ -32,7 +32,7 @@ Beginner friendly!
 
 --
 
-![Join GitHub](/presentations/images/2016-06-01-join-github.png)
+[![Join GitHub](/presentations/images/2016-06-01-join-github.png)](https://github.com/join)
 
 Make sure to [join GitHub](https://github.com/join) before we get started.
 
@@ -86,7 +86,7 @@ You can _star_ any repository to save it to [your account](https://github.com/st
 
 --
 
-![Zotero website](/presentations/images/2016-06-01-zotero.png)
+[![Zotero website](/presentations/images/2016-06-01-zotero.png)](https://github.com/zotero/zotero)
 
 --
 
@@ -95,16 +95,16 @@ Open source software projects developed for and by GLAMs host code on GitHub. Ex
 
 --
 
-![Cooper-Hewitt collection repository](/presentations/images/2016-06-01-cooperhewitt-collection.png)
+[![Cooper-Hewitt collection repository](/presentations/images/2016-06-01-cooperhewitt-collection.png)](https://github.com/cooperhewitt/collection)
 
 --
 
 ### Data
-In 2012, the Smithsonian Cooper-Hewitt National Design Museum in New York published their [collection metadata](http://labs.cooperhewitt.org/2012/releasing-collection-github/) to GitHub using a Creative Commons Zero license. The [Tate Gallery](https://github.com/tategallery/collection) and [Museum of Modern Art](https://github.com/MuseumofModernArt/collection) released their metadata soon after.
+In 2012, the Smithsonian Cooper-Hewitt National Design Museum in New York [published their collection metadata](http://labs.cooperhewitt.org/2012/releasing-collection-github/) to [GitHub](https://github.com/cooperhewitt/collection) using a Creative Commons Zero license. The [Tate Gallery](https://github.com/tategallery/collection) and [Museum of Modern Art](https://github.com/MuseumofModernArt/collection) released their metadata soon after.
 
 --
 
-![New York Public Library Negro Motorist Green Book Web Map ](/presentations/images/2016-06-01-nypl-greenbook-map.png)
+[![New York Public Library Negro Motorist Green Book Web Map ](/presentations/images/2016-06-01-nypl-greenbook-map.png)](http://publicdomain.nypl.org/greenbook-map/)
 
 --
 
@@ -113,7 +113,7 @@ In 2015, the New York Public Library published a [location dataset](https://gith
 
 --
 
-![Andy Warhol Museum Digital Strategy ](/presentations/images/2016-06-01-warholmuseum-digitalstrategy.png)
+[![Andy Warhol Museum Digital Strategy ](/presentations/images/2016-06-01-warholmuseum-digitalstrategy.png)](https://thewarholmuseum.github.io/digital-strategy/)
 
 --
 
@@ -122,7 +122,7 @@ In 2015, the Andy Warhol Museum drafted and published their [digital strategy do
 
 --
 
-![ACMI Labs static museum audio guide](/presentations/images/2016-06-01-static-museum-audio-guide.png)
+[![ACMI Labs static museum audio guide](/presentations/images/2016-06-01-static-museum-audio-guide.png)](https://github.com/ACMILabs/static-museum-audio-guide
 
 --
 
@@ -156,10 +156,11 @@ Works that are published without an explicit license are usually subject to the 
 
 [![choosealicense.com](/presentations/images/2016-06-01-choosealicense.png)](http://choosealicense.com/)
 
-Learn more about licenses with [Choose a License](http://choosealicense.com/).
+You can use [Choose a License](http://choosealicense.com/) to learn more about different open source licenses or take self-guided lessons on "openness" from the [School of Open](http://schoolofopen.org/).
 
 ---
-## Using GitHub
+
+## How is GitHub organized?
 
 - Users
 - Organizations
@@ -167,19 +168,19 @@ Learn more about licenses with [Choose a License](http://choosealicense.com/).
 
 --
 
-![GitHub user page for elipousson](/presentations/images/2016-06-01-elipousson-github.png)
+[![GitHub user page for elipousson](/presentations/images/2016-06-01-elipousson-github.png)](https://github.com/elipousson)
 
 ### Users
 
 --
 
-![GitHub organization page for baltimoreheritage](/presentations/images/2016-06-01-baltimoreheritage-github.png)
+[]![GitHub organization page for baltimoreheritage](/presentations/images/2016-06-01-baltimoreheritage-github.png)](https://github.com/baltimoreheritage)
 
 ### Organizations
 
 --
 
-![GitHub repostitory page for bLAM Class](/presentations/images/2016-06-01-blamclass-github.png)
+[![GitHub repostitory page for bLAM Class](/presentations/images/2016-06-01-blamclass-github.png)](https://github.com/blamcollective/blamclass)
 
 ### Repositories
 
@@ -187,12 +188,16 @@ Learn more about licenses with [Choose a License](http://choosealicense.com/).
 
 ## Creating a repository with git on the command line
 
-Open [tryGit](https://try.github.io/levels/1/challenges/1) from [Code School](https://www.codeschool.com/courses/try-git). Other interactive tutorials to learn git on the command line include:
+We are now going to create a repository using [tryGit](https://try.github.io/levels/1/challenges/1) from [Code School](https://www.codeschool.com/courses/try-git). Other interactive tutorials to learn git on the command line include:
 
 - [Learn Git](https://www.codecademy.com/learn/learn-git) from Codecademy
 - [Git It](https://github.com/jlord/git-it-electron) application
 
 Note:  [Library Carpentry](https://github.com/LibraryCarpentry/week-three-library-carpentry/blob/master/Git_lesson.md): A repository is the place where are projects and associated changes are stored. Repositories can contain one single readme file or hundreds of different folders making up the source code for extensive projects. We can create repositories in a number of different ways; we can make our own from scratch, we can fork (copy) an existing repository or we can create a git repository from an existing folder we have been working on.
+
+--
+
+[![tryGit from Code School](/presentations/images/2016-06-01-trygit.png)](https://try.github.io/levels/1/challenges/1)
 
 ---
 
@@ -220,18 +225,20 @@ Read the [18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/)
 
 ---
 
-# Creating a repository using the browser
-
-- Create a [new repository](https://github.com/new)
-- Name the "repo (your-user-name).github.io"
-- Add a short description, e.g. "My website."
-- Check the box labeled "Initialize this repository with a README"
-- Select Jekyll for .gitignore
- - Select Creative Commons Zero for license
+## Creating a repository using the browser
 
 --
 
-![Create a new repository](/presentations/images/2016-06-02-github-new.png)
+[![Create a new repository](/presentations/images/2016-06-02-github-new.png)](https://github.com/new)
+
+Create a [new repository](https://github.com/new).
+--
+
+- Name the "repo (your-username).github.io"
+- Add a short description, e.g. "My website."
+- Check the box labeled "Initialize this repository with a README"
+- Select Jekyll for .gitignore
+- Select Creative Commons Zero for license
 
 ---
 
@@ -259,6 +266,9 @@ Note: This section is via the CUNY tutorial. Markdown is a markup (I know!) styl
 
 ## Using GitHub Pages
 
+- You can upload files, fork an existing repository, or use the [automatic page generator]( https://help.github.com/articles/creating-pages-with-the-automatic-generator/)
+- To upload files or use the automatic page generator, create a new repository named your-username.github.io, where username is your username (or organization name) on GitHub.
+
 Note: [Library Carpentry](https://github.com/LibraryCarpentry/week-three-library-carpentry/blob/master/Git_lesson.md): Github pages allow you to version control your website. This is useful for a lot different reasons. It allows you to keep a record of what changes you have made. It allows people to reference your website at a particular point in time and (if you make you're source open) to see what it was like at that particular point in time. This is very useful for academic citations. Most people have had the experience of following up a reference to a website and either getting a 404 error or seeing something completely different. Although using version on your site doesn't guarantee this won't happen it does make it easier to manage old versions of your site.
 
 ---
@@ -267,6 +277,7 @@ Note: [Library Carpentry](https://github.com/LibraryCarpentry/week-three-library
 
 - [GitHub Pages](https://pages.github.com/)
 - [Minimal: A Theme for GitHub Pages](https://github.com/orderedlist/minimal)
+
 ---
 
 ## Tools to try with GitHub
@@ -288,11 +299,11 @@ You can use free web applications and services to create or edit files hosted on
 [geojson.io](http://geojson.io/) (handy [Chrome extension](https://chrome.google.com/webstore/detail/geojsonio/oibjgofbhldcajfamjganpeacipebckp))
 
 ---
-# More things to use  with GitHub
+## More things to try!
 
-- [Fork-n-go projects](http://jlord.us/forkngo/)
-- Images (about [rendering and diffing images](https://help.github.com/articles/rendering-and-diffing-images/))
-- [Blocks](http://bl.ocks.org/-/about) (handy [browser extensions](https://github.com/mbostock/bl.ocks.org/blob/master/README.md))
+- Use a [fork-n-go project](http://jlord.us/forkngo/)
+- Try saving images to GitHub (about [rendering and diffing images](https://help.github.com/articles/rendering-and-diffing-images/))
+- Play with displaying [gists](https://gist.github.com/) with [blocks](http://bl.ocks.org/-/about) (handy [browser extensions](https://github.com/mbostock/bl.ocks.org/blob/master/README.md))
 
 ---
 

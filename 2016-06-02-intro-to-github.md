@@ -49,7 +49,9 @@ Note: Excerpt from [CUNY workshop materials](https://github.com/mckinniburgh/git
 
 ## What is version control?
 
-It’s why we use “Save As”.
+Version Control (aka Revision Control aka Source Control) lets you track your files over time. Why do you care? So when you mess up you can easily get back to a previous working version. It's why we use "Save As".
+
+Read [A Visual Guide to Version Control](http://betterexplained.com/articles/a-visual-guide-to-version-control/) to learn more.
 
 Note: [Library Carpentry](https://github.com/LibraryCarpentry/week-three-library-carpentry/blob/master/Git_lesson.md): "Many of us will have had an experience similar to this. We are working on an important piece of work and we attempt to maintain multiple version of this document in different stages of completeness.Version control addresses this problem by recording the changes we make to a document as we proceed. Each of the 'commits' we make is recorded and we can go back across a document or a set of documents and look at what changes have been made. Version control allow us to take this one step further and not only record changes to a document one person is working on but allows multiple people to work on a document and record the changes they make. It is then possible to merge these multiple documents. This developed out of a need for groups writing code together to be able to work on coding projects together without having to wait for someone else to finish working on something or having to manually compare changes that are made."
 
@@ -128,7 +130,7 @@ In 2015, the Andy Warhol Museum drafted and published their [digital strategy do
 
 --
 
-[![ACMI Labs static museum audio guide](/presentations/images/2016-06-01-static-museum-audio-guide.png)](https://github.com/ACMILabs/static-museum-audio-guide
+[![ACMI Labs static museum audio guide](/presentations/images/2016-06-01-static-museum-audio-guide.png)](https://github.com/ACMILabs/static-museum-audio-guide)
 
 --
 
@@ -139,7 +141,9 @@ Note: In 2016, the City of Los Angeles Department of Cultural Affairs published 
 
 --
 
-![Explore GitHub](/presentations/images/2016-06-01-explore-github.png)
+[![Explore GitHub](/presentations/images/2016-06-01-explore-github.png)](https://github.com/explore/)
+
+## Explore GitHub
 
 ---
 
@@ -338,22 +342,21 @@ You can also apply for a non-profit account through [GitHub for Good](https://gi
 
 ---
 
-## How did we design this workshop?
+## Additional Resources on Git and GitHub
 
-Note: I am planning to set up either a workshop website (e.g. [Software Carpentry template](https://github.com/swcarpentry/workshop-template)) or a more simple collection of Markdown files (e.g. [this CUNY workshop on Git/GitHub](https://github.com/mckinniburgh/gitWorkshop)) on the [bLAM collective account](https://github.com/blamcollective). We also need a repository or a place within the workshop repository for students to contribute (Software Carpentry [recommends setting up a separate repo](https://github.com/swcarpentry/workshop-template#setting-up-a-separate-repository-for-learners)).
-
-Here are the models we looked at for this workshop:
-
-- [Collaboration and Writing Workflows with Git and GitHub: A GC Digital Fellows Workshop, Spring 2016](https://github.com/mckinniburgh/gitWorkshop)
-- [Building Static Websites with Jekyll and GitHub Pages](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages), Programming Historian
-- Library Carpentry. [Week 3: Git](https://github.com/LibraryCarpentry/week-three-library-carpentry/blob/master/Git_lesson.md)
 - [Resources for learning git](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
+- [Git Tutorials](https://www.atlassian.com/git/tutorials)
+- [Getting Started with GitHub Desktop](https://help.github.com/desktop/guides/getting-started/)
+- [GitHub for Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
+- [Building Static Websites with Jekyll and GitHub Pages](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages), Programming Historian
 
 ---
 
-## Resources on Git, GitHub, and Version Control
+## Credits
 
-- [Git Tutorials](https://www.atlassian.com/git/tutorials)
-- [A Visual Guide to Version Control](http://betterexplained.com/articles/a-visual-guide-to-version-control/)
-- [Getting Started with GitHub Desktop](https://help.github.com/desktop/guides/getting-started/)
-- [GitHub for Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
+I borrowed from these two workshops to assemble this presentation:
+
+- [Collaboration and Writing Workflows with Git and GitHub: A GC Digital Fellows Workshop, Spring 2016](https://github.com/mckinniburgh/gitWorkshop)
+- Library Carpentry. [Week 3: Git](https://github.com/LibraryCarpentry/week-three-library-carpentry/blob/master/Git_lesson.md)
+
+Note: I had plans to set up either a workshop website (e.g. [Software Carpentry template](https://github.com/swcarpentry/workshop-template)) or a more simple collection of Markdown files (e.g. [this CUNY workshop on Git/GitHub](https://github.com/mckinniburgh/gitWorkshop)) on the [bLAM collective account](https://github.com/blamcollective) but I didn't get it together in time. We should have a repository or a place within the workshop repository for students to contribute (Software Carpentry [recommends setting up a separate repo](https://github.com/swcarpentry/workshop-template#setting-up-a-separate-repository-for-learners)) but we'll make do.

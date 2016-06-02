@@ -1,8 +1,14 @@
 
 # bLAM Class: GitHub and Open Source
+[Eli Pousson](http://elipousson.github.io) for the [bLAM Collective](https://blamcollective.wordpress.com/), 2016 June 2
 
-Welcome! **By the end of this lesson**, you will…
+---
 
+## Welcome!
+
+**By the end of this lesson**, you will…
+
+- Learn about **git** and **GitHub**
 - Create a **repository**
 - Make a **commit** to a repository on GitHub
 - Submit a **pull request** to a shared repository
@@ -20,30 +26,76 @@ Welcome! **By the end of this lesson**, you will…
 ## How difficult is this workshop?
 
 Beginner (we will not use the command line for this workshop).
-
---
-
-## How did we design this workshop?
-
-Note: I am planning to set up either a workshop website (e.g. [Software Carpentry template](https://github.com/swcarpentry/workshop-template)) or a more simple collection of Markdown files (e.g. [this CUNY workshop on Git/GitHub](https://github.com/mckinniburgh/gitWorkshop)) on the [bLAM collective account](https://github.com/blamcollective). We also need a repository or a place within the workshop repository for students to contribute (Software Carpentry [recommends setting up a separate repo](https://github.com/swcarpentry/workshop-template#setting-up-a-separate-repository-for-learners)).
-
-Here are the models we looked at for this workshop:
-
-- [Collaboration and Writing Workflows with Git and GitHub: A GC Digital Fellows Workshop, Spring 2016](https://github.com/mckinniburgh/gitWorkshop)
-- [Building Static Websites with Jekyll and GitHub Pages](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages), Programming Historian
-- Library Carpentry. [Week 3: Git](https://github.com/LibraryCarpentry/week-three-library-carpentry/blob/master/Git_lesson.md)
-
 ---
 
 ## What should you do before the workshop?
 
-1. [Set up a GitHub account](https://github.com/join)
+![Join GitHub](/images/2016-06-01-join-github.png)
 
-###  Optional steps
+[Join GitHub](https://github.com/join)
 
-2. Download and install [GitHub Desktop](https://desktop.github.com/) (available for Mac or Windows)
-3. Download a terminal application (e.g. iTerm)
-4. Download and install a desktop text editor (e.g. [Atom](https://atom.io/))
+---
+## How are GLAMs using GitHub?
+
+- Code
+- Data
+- Maps or Geodata
+- Writing
+- Websites
+
+You can "star" any repository to save it to [your account](https://github.com/stars). Give it a try!
+
+--
+
+![Zotero website](/images/2016-06-01-zotero.png)
+
+--
+
+### Code
+A variety of software projects used by libraries, galleries, archives and museums host their code on GitHub including [Zotero](https://github.com/zotero/zotero), [Omeka](https://github.com/omeka/Omeka), [CollectiveAccess](https://github.com/collectiveaccess) and [CollectionSpace](https://github.com/collectionspace).
+
+--
+
+![Cooper-Hewitt collection repository](/images/2016-06-01-cooper-hewitt-collection.png)
+
+--
+
+### Data
+In 2012, the Smithsonian Cooper-Hewitt National Design Museum in New York published their [collection metadata](http://labs.cooperhewitt.org/2012/releasing-collection-github/) to GitHub using a Creative Commons Zero license. The [Tate Gallery](https://github.com/tategallery/collection) and [Museum of Modern Art](https://github.com/MuseumofModernArt/collection)soon followed.
+
+--
+
+![New York Public Library Negro Motorist Green Book Web Map ](/images/2016-06-01-nypl-greenbook-map.png)
+
+--
+
+### Maps and Geodata
+In 2015, the New York Public Library published a [location dataset](https://github.com/NYPL-publicdomain/greenbooks) scraped from the digitized Negro Motorist Green Book travel guides. In 2016, the New York Public Library created [a website](http://publicdomain.nypl.org/greenbook-map/) to display the data (hosted [on GitHub](https://github.com/NYPL-publicdomain/greenbook-map)).
+
+--
+
+![Andy Warhol Museum Digital Strategy ](/images/2016-06-01-andy-warhol-museum-digitalstrategy.png)
+
+--
+
+### Writing
+In 2015, the Andy Warhol Museum drafted and published their [digital strategy documents on GitHub](https://thewarholmuseum.github.io/digital-strategy/) using a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://thewarholmuseum.github.io/digital-strategy/LICENSE.txt) license.
+
+--
+
+![ACMI Labs static museum audio guide](/images/2016-06-01-static-museum-audio-guide.png)
+
+--
+
+### Websites
+Last week, the Australian Center for the Moving Image created [a website template](https://github.com/ACMILabs/static-museum-audio-guide) using Jekyll to create a museum audio guide.
+
+Note: In 2016, the City of Los Angeles Department of Cultural Affairs published their [WordPress child theme on GitHub](https://github.com/dcadigital/cultural-affairs-wp-theme).
+
+--
+## Exploring GitHub
+
+![Explore GitHub](/images/2016-06-01-explore-github.png)
 
 ---
 
@@ -62,6 +114,8 @@ Git is the **local** power behind _version control_.
 
 ---
 ## What is version control?
+
+!["Final".doc comic ](http://www.phdcomics.com/comics/archive/phd101212s.gif)
 
 ---
 
@@ -85,6 +139,7 @@ Here are three reasons that people and organizations are using GitHub.
 - To facilitate collaboration
 
 Note: **Ask participants**: why are you here? Why do you want to use GitHub?
+
 ---
 
 ## Resources on Git and Version Control
@@ -95,68 +150,28 @@ Note: **Ask participants**: why are you here? Why do you want to use GitHub?
 --
 ## How do I use git on the command line?
 
-This workshop _does not_ teach you how to use git using the command line. Here are a few resources do teach git:
+This workshop _does not_ teach you how to use git using the command line.
 
-- [tryGit](https://try.github.io/levels/1/challenges/1) from [Code School](https://www.codeschool.com/courses/try-git)
-- [Learn Git](https://www.codecademy.com/learn/learn-git) from Codecademy
-- [Git It](https://github.com/jlord/git-it-electron) application
-
----
-## How are GLAMs using GitHub?
-
-Galleries, libraries, archives and museums are using GitHub to share and collaborate around a variety of things. These include:
-
-- Code
-- Data
-- Maps or Geodata
-- Writing
-- Websites
-
-Note: Ask participants – while we look at these examples, you can “star” any repositories that you find interesting or want to bookmark.
-
-For logged-in users, your “stars” are available here [https://github.com/stars](https://github.com/stars)
-
-You can find more interesting repositories at [https://github.com/explore](https://github.com/explore)
+[tryGit](https://try.github.io/levels/1/challenges/1) from [Code School](https://www.codeschool.com/courses/try-git)
 
 --
 
-### Code
-A variety of software projects used by libraries, galleries, archives and museums host their code on GitHub including [Zotero](https://github.com/zotero/zotero), [Omeka](https://github.com/omeka/Omeka), [CollectiveAccess](https://github.com/collectiveaccess) and [CollectionSpace](https://github.com/collectionspace). Sometimes
+[Learn Git](https://www.codecademy.com/learn/learn-git) from Codecademy
 
 --
-
-### Data
-In 2012, the Smithsonian Cooper-Hewitt National Design Museum in New York published their [collection metadata](http://labs.cooperhewitt.org/2012/releasing-collection-github/) to GitHub using a Creative Commons Zero license. The [Tate Gallery](https://github.com/tategallery/collection) and [Museum of Modern Art](https://github.com/MuseumofModernArt/collection)soon followed.
-
---
-
-### Maps and Geodata
-In 2015, the New York Public Library published a [location dataset](https://github.com/NYPL-publicdomain/greenbooks) scraped from the digitized Negro Motorist Green Book travel guides. In 2016, the New York Public Library created [a website](http://publicdomain.nypl.org/greenbook-map/) to display the data (hosted [on GitHub](https://github.com/NYPL-publicdomain/greenbook-map)).
-
---
-
-### Writing
-
-![The Andy Warhol Museum, Pittsburgh, floor 4 - Mao installation, © Abby Warhola](http://www.artfixdaily.com/images/newsfeed/Mar21_warhol_Museum972x648.jpg)
-
-In 2015, the Andy Warhol Museum drafted and published their [digital strategy documents on GitHub](https://thewarholmuseum.github.io/digital-strategy/) using a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://thewarholmuseum.github.io/digital-strategy/LICENSE.txt) license.
-
---
-
-### Websites
-In 2016, the City of Los Angeles Department of Cultural Affairs published their [WordPress child theme on GitHub](https://github.com/dcadigital/cultural-affairs-wp-theme). Recently, the Australian Center for the Moving Image created [a website template](https://github.com/ACMILabs/static-museum-audio-guide) using Jekyll to create a museum audio guide.
+[Git It](https://github.com/jlord/git-it-electron) application
 
 ---
 
 ## Open Licensing
 You may have noticed that many of these projects use Creative Commons or other **open licenses**.
 
---
+---
 
 ### What is an open license?
 A license is a document that specifies what can and cannot be done with a work (whether sound, text, image or multimedia). It grants permissions and states restrictions. Broadly speaking, an open license is one which grants permission to access, re-use and redistribute a work with few or no restrictions.
 
---
+---
 
 ### Why use an open license?
 Works that are published without an explicit license are usually subject to the copyright laws of the jurisdiction they are published in by default. Open licenses enable creators to allow more freedom in what others can do with their works.
@@ -164,6 +179,8 @@ Works that are published without an explicit license are usually subject to the 
 --
 
 ### How do you choose a license?
+
+![choosealicense.com](/images/2016-06-01-choosealicense.png)
 
 Try [Choose a License](http://choosealicense.com/)
 
@@ -176,13 +193,41 @@ Try [Choose a License](http://choosealicense.com/)
 
 ---
 
+## Navigating GitHub
+
+- Users
+- Organizations
+- Repositories
+
+--
+## Users
+![GitHub user page for elipousson](/images/2016-06-01-elipousson-github.png)
+--
+
+## Organizations
+![GitHub organization page for baltimoreheritage](/images/2016-06-01-baltimoreheritage-github.png)
+
+--
+## Repositories
+![GitHub repostitory page for bLAM Class](/images/2016-06-01-blamclass-github.png)
+
+--
+
+## Repositories
+- Code
+- Issues
+- Commits
+- Pull Requests
+
+---
+
 ## Let's build something
 
 ---
 
 ## Why use plain text?
 
---
+ --
 
 ## What is Markdown?
 This section is via the CUNY tutorial.
@@ -209,11 +254,54 @@ For more: [Dennis Tenen and Grant Wythoff, "Sustainable Authorship in Plain Text
 
 ---
 
-# More Fun Stuff with GitHub
+## GitHub Pages
+
+---
+
+## Tools to try with GitHub
+
+There are many free web applications and services that make it easier to create or edit files hosted on GitHub.
+
+--
+
+### prose.io
+
+![prose.io](/images/2016-06-01-prose-io.png)
+
+[prose.io](https://prose.io) (handy [Chrome extension](https://chrome.google.com/webstore/detail/prose/onippmookoohgjgccejcjmlpoohbjgjn))
+
+--
+
+### geojson.io
+
+[geojson.io](http://geojson.io/) (handy [Chrome extension](https://chrome.google.com/webstore/detail/geojsonio/oibjgofbhldcajfamjganpeacipebckp))
+
+---
+# Try using these with GitHub
 
 - [Fork-n-go projects](http://jlord.us/forkngo/)
 - [GitHub Pages](https://pages.github.com/)
-- [prose.io](https://prose.io) (handy [Chrome extension](https://chrome.google.com/webstore/detail/prose/onippmookoohgjgccejcjmlpoohbjgjn))
-- [geojson.io](http://geojson.io/) (handy [Chrome extension](https://chrome.google.com/webstore/detail/geojsonio/oibjgofbhldcajfamjganpeacipebckp))
+-
 - Images (about [rendering and diffing images](https://help.github.com/articles/rendering-and-diffing-images/))
 - [Blocks](http://bl.ocks.org/-/about) (handy [browser extensions](https://github.com/mbostock/bl.ocks.org/blob/master/README.md))
+---
+# What do you next?
+
+After the workshop, you may want to download and install:
+
+- [GitHub Desktop](https://desktop.github.com/)
+- A terminal application (try [iTerm2](http://iterm2.com/) for OS X or [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) for Windows)
+- A desktop text editor (try [Atom](https://atom.io/))
+
+---
+
+## How did we design this workshop?
+
+Note: I am planning to set up either a workshop website (e.g. [Software Carpentry template](https://github.com/swcarpentry/workshop-template)) or a more simple collection of Markdown files (e.g. [this CUNY workshop on Git/GitHub](https://github.com/mckinniburgh/gitWorkshop)) on the [bLAM collective account](https://github.com/blamcollective). We also need a repository or a place within the workshop repository for students to contribute (Software Carpentry [recommends setting up a separate repo](https://github.com/swcarpentry/workshop-template#setting-up-a-separate-repository-for-learners)).
+
+Here are the models we looked at for this workshop:
+
+- [Collaboration and Writing Workflows with Git and GitHub: A GC Digital Fellows Workshop, Spring 2016](https://github.com/mckinniburgh/gitWorkshop)
+- [Building Static Websites with Jekyll and GitHub Pages](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages), Programming Historian
+- Library Carpentry. [Week 3: Git](https://github.com/LibraryCarpentry/week-three-library-carpentry/blob/master/Git_lesson.md)
+- [Resources for learning git](https://help.github.com/articles/good-resources-for-learning-git-and-github/)

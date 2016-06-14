@@ -1,8 +1,9 @@
-# Explore Baltimore Heritage 101
-## How to research historic places
+## Explore Baltimore Heritage 101
+### How to research historic places
 
 Eli Pousson, [Baltimore Heritage](http://baltimoreheritage.org/) | 2016 June 21
-This is a draft of the presentation that will be published on our [Explore Baltimore Heritage 101 course site](http://baltimoreheritage.github.io/explore-101/).
+
+The finished version of this presentation will be published on the [Explore Baltimore Heritage 101 course site](http://baltimoreheritage.github.io/explore-101/).
 
 ---
 
@@ -41,31 +42,31 @@ Note: In this presentation, we decided to focus on helping learners understand t
 
 **Think**: How are different places shaped by their  **physical context** (rural, suburban, urban), the **use** (agricultural, commercial, domestic, and industrial), and **age** (very old or very new)?
 
-Note: This section is based on the [Vernacular Architecture Forum downloadable slideshow](http://www.vernaculararchitectureforum.org/Tools-for-Education). Some historians call groups of buildings as “assemblages” of buildings.
+Note: This section is based on the [Vernacular Architecture Forum downloadable slideshow](http://www.vernaculararchitectureforum.org/Tools-for-Education). Some historians call groups of buildings as "assemblages" of buildings.
 
 --
 
 ![Northwestern Loan Company, 1701 Pennsylvania Avenue, Baltimore, MD, December 4, 2015](https://c2.staticflickr.com/2/1691/24169374650_d3aecb9bd1_b.jpg)
 
-Single buildings include houses, commercial buildings, and factories. Other individual structures could include bridges, tunnels, or dams.
+Note: Single buildings include houses, commercial buildings, and factories. Other individual structures could include bridges, tunnels, or dams.
 
 --
 
-![2400 block West Lafayette Avenue, Baltimore, MD, July 22, 2010 ](https://c1.staticflickr.com/5/4144/5071975382_f1eaf40b70_b.jpg)
+![2400 block West Lafayette Avenue, Baltimore, MD, July 22, 2010](https://c1.staticflickr.com/5/4144/5071975382_f1eaf40b70_b.jpg)
 
-Groups of buildings include row house blocks, a row of commercial buildings on a “main street”, or a complex of buildings like a church with a parsonage and school.
+Note: Groups of buildings include row house blocks, a row of commercial buildings on a "main street", or a complex of buildings like a church with a parsonage and school.
 
 --
 
-![ Union Square Park, Baltimore, MD, May 6, 2011](https://c1.staticflickr.com/3/2435/5758844253_cc3ce369ae_b.jpg)
+![Union Square Park, Baltimore, MD, May 6, 2011](https://c1.staticflickr.com/3/2435/5758844253_cc3ce369ae_b.jpg)
 
-Landscapes include parks, gardens, cemeteries, and public plazas.
+Note: Landscapes include parks, gardens, cemeteries, and public plazas.
 
 --
 
 ![Confederate Women's Monument, Bishop's Park, Charles Street and University Parkway, Baltimore, MD, October 4, 2015](https://c2.staticflickr.com/6/5746/23597205735_727d33f5f1_b.jpg)
 
-Public artworks and monuments are not buildings but they are often interesting places to research.
+Note: Public artworks and monuments are not buildings but they are often interesting places to research.
 
 --
 
@@ -86,9 +87,9 @@ Note: It is helpful to consider how historians think about the past and how we c
 
 --
 
-### Five C’s of Historical Thinking
+### Five C's of Historical Thinking
 
-Thomas Andrews and Flannery Burke suggest looking at the craft of history as a series of “habits of mind” that help you “formulate and support arguments based on primary sources” and "understand and challenge historical interpretations related in secondary sources”.
+Thomas Andrews and Flannery Burke suggest looking at the craft of history as a series of "habits of mind" that help you "formulate and support arguments based on primary sources" and "understand and challenge historical interpretations related in secondary sources".
 
 - Change over time
 - Context
@@ -96,7 +97,7 @@ Thomas Andrews and Flannery Burke suggest looking at the craft of history as a s
 - Contingency
 - Complexity
 
-Note: These concepts are designed to help you “learn how to formulate and support arguments based on primary sources, as well as to understand and challenge historical interpretations related in secondary sources.” This isn’t the only way to think about historical thinking but it is a helpful framework for explaining core concepts. Read more about the five C’s of historical thinking in [What Does It Mean to Think Historically?](https://www.historians.org/publications-and-directories/perspectives-on-history/january-2007/what-does-it-mean-to-think-historically)
+Note: These concepts are designed to help you "learn how to formulate and support arguments based on primary sources, as well as to understand and challenge historical interpretations related in secondary sources." This isn't the only way to think about historical thinking but it is a helpful framework for explaining core concepts. Read more about the five C's of historical thinking in [What Does It Mean to Think Historically?](https://www.historians.org/publications-and-directories/perspectives-on-history/january-2007/what-does-it-mean-to-think-historically)
 
 --
 
@@ -110,7 +111,7 @@ Note: These concepts are designed to help you “learn how to formulate and supp
 
 Local historians may have different goals than scholarly or academic historians. In [Nearby History](https://openlibrary.org/works/OL2987596W/Nearby_History) (2000), David Kyvig and Myron Marty, suggest your goal does not need to be complicated:
 
-> “Often the goal of inquiry is simply an accurate portrayal of of an event, personality, set of conditions, or place at some past moment.”
+> "Often the goal of inquiry is simply an accurate portrayal of of an event, personality, set of conditions, or place at some past moment."
 
 --
 
@@ -132,7 +133,7 @@ In the past, architectural historians have often focused on the well-known indiv
 
 ![The Belvedere Hotel, 1 East Chase Street, Baltimore, MD, January 13, 2011](https://c2.staticflickr.com/6/5085/5368889506_3abc491639_b.jpg)
 
-Today, many historians interested in buildings study **“vernacular architecture”**—the common buildings that make up most neighborhoods and cities.
+Today, many historians interested in buildings study **"vernacular architecture"**—the common buildings that make up most neighborhoods and cities.
 
 --
 
@@ -148,7 +149,7 @@ Using this flexible definition, historians Thomas Carter and Elizabeth Collins C
 
 ### How do you look at places within a community?
 
-Carter and Cromley divide “vernacular communities” into five categories based on size and scale:
+Carter and Cromley divide "vernacular communities" into five categories based on size and scale:
 
 - **Local**: A single location
 - **Regional**: Grouping nearby locations with shared cultural traits
@@ -162,7 +163,7 @@ These categories are _not_ mutually exclusive.
 
 ### How do you analyze places?
 
-Research isn’t just about finding sources or collecting evidence. Research is about **analysis**: the process of trying to answer your research questions.
+Research isn't just about finding sources or collecting evidence. Research is about **analysis**: the process of trying to answer your research questions.
 
 Carter and Cromley suggest five approaches for analyzing vernacular architecture:
 
@@ -172,9 +173,9 @@ Carter and Cromley suggest five approaches for analyzing vernacular architecture
 - Function
 - Technology
 
-Note: These approaches are the “point at which the architectural and archival evidence join to reveal the **patterns of behavior** that are the goal of the research process.” They require you to combine different kinds of evidence:
+Note: These approaches are the "point at which the architectural and archival evidence join to reveal the **patterns of behavior** that are the goal of the research process." They require you to combine different kinds of evidence:
 
-> “These two bodies of evidence—words and things—interweave to yield a composite portrait of the patterns of behavior we seek to uncover.”
+> "These two bodies of evidence—words and things—interweave to yield a composite portrait of the patterns of behavior we seek to uncover."
 
 See Carter and Cromley, p. 45-47 for more.
 
@@ -240,7 +241,7 @@ How to search with keywords:
 - Use more precise terms as you progress
 - Pair primary keywords serially with secondary keywords
 
-What do you do if your first choice doesn’t work?
+What do you do if your first choice doesn't work?
 
 --
 

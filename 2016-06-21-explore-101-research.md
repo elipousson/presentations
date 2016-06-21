@@ -3,11 +3,15 @@
 
 Eli Pousson, [Baltimore Heritage](http://baltimoreheritage.org/) | June 21, 2016
 
-Note: In this presentation, we decided to focus on helping learners understand the research process and the analytical framework used by local historians rather than focusing on how to access to analyze specific sources (like maps or newspapers).
+Note: This presentation is designed to facilitate a 60-90 minute discussion with several short activities to help learners understand the research process and the analytical framework used by local historians. We also discuss broadly how to make sense of sources with a focus on searching full text databases.
 
-We also put together a series of **activities** that learners can do on their own or in groups to increase their familiarity with how to use specific types of sources or specific databases.
+This presentation includes three activities:
 
-The finished version of this presentation will be published on the [Explore Baltimore Heritage 101 course site](http://baltimoreheritage.github.io/explore-101/).
+- What place do you want to research?
+- What questions do you ask about your place?
+- How do you find sources about your place with full text search?
+
+We plan to published the finished version of this presentation on the [Explore Baltimore Heritage 101 course site](http://baltimoreheritage.github.io/explore-101/).
 
 ---
 
@@ -48,13 +52,15 @@ Note: Then, we can tackle the process of **how to research historic places** in 
 3. Landscapes
 4. Public art and monuments
 
-Note: Thinking about historic places in terms of a typology can help you understand the similarities and differences between a place and comparable places. Some historians call groups of buildings as "assemblages" of buildings. These categories are based on the [Vernacular Architecture Forum downloadable slideshow](http://www.vernaculararchitectureforum.org/Tools-for-Education).
+Note: Thinking about historic places in terms of a typology can help you understand the similarities and differences between a place and comparable places. Some historians call groups of buildings as "assemblages" of buildings.
+
+These categories are based on the [Vernacular Architecture Forum downloadable slideshow](http://www.vernaculararchitectureforum.org/Tools-for-Education).
 
 --
 
 ![Columbus School, E. North Avenue, Baltimore, MD, November 12, 2014](https://c2.staticflickr.com/8/7792/18312114735_0f2435ce0a_b.jpg)
 
-Note: **Individual buildings** include houses, commercial buildings, and factories. Other individual structures could include bridges, tunnels, or dams. Also – this image is a different ratio than all the others and should be swapped out or re-cropped.
+Note: **Individual buildings** include houses, commercial buildings, and factories. Other individual structures could include bridges, tunnels, or dams.
 
 --
 
@@ -86,18 +92,27 @@ What characteristics make one place different than another?
 
 --
 
+## Every place has a story.
+
+![Every place has a story to share](/presentations/images/2016-06-21-every-place-story-share.png)
+
+--
+
+## Why does the design of a place matter?
+
+Constructing a building takes **time** and **money**.
+
+Nothing gets built unless it is **planned**.
+
+Note: Carter and Cromley, p. 13
+
+--
+
 ## What place do you want to research?
 
 Write it down. Let's talk about it.
 
-Note: **Activity: What kind of place do you want to research?**
-
-Before the activity, the facilitator will set up a poster board divided into four quadrants for the four categories of places described above. Then, follow the steps below:
-
-1. Write the name and location of a place you want to research on a post-it note. If you have more than one place in mind, please use a new post-it note for each place.
-2. Put the post-it notes on the post board in the category where you think they belong. How many post-its are in each category?
-3. Think again about the place you want to research. How can you look at an individual building as part of a group or as part of a landscape?
-4. Write a second post-it note that incorporates the place you are interested in but places it in another category than the first one.
+Note: [What place do you want to research? – Explore Baltimore Heritage 101: Research Activity](https://docs.google.com/document/d/1mXwqtJfbLaoOIhfug3YrGBjQB4N6yLaNkwiedk8zOUs/edit?usp=sharing)
 
 ---
 
@@ -122,8 +137,6 @@ Note: These concepts (created by Thomas Andrews and Flannery Burke) are designed
 Read more about the five C's of historical thinking in [What Does It Mean to Think Historically?](https://www.historians.org/publications-and-directories/perspectives-on-history/january-2007/what-does-it-mean-to-think-historically)
 
 **Activity: Source Analysis** You can use these concepts to assist in the analysis of a historical document or source.  See the [Document Analysis Worksheets](http://www.archives.gov/education/lessons/worksheets/index.html) from the National Archives for more information.
-
-TODO: Think of more examples to fill in the slides in this section.
 
 ---
 
@@ -155,30 +168,19 @@ Often your challenge is _not_ coming up with a topic or a question. It is decidi
 
 > Nearly everyone is surrounded by a vast assortment of people, objects, and institutions, each with potentially interesting past about which an enormous amount of information exists in one form or another.
 
-_From David Kyvig and Myron Marty, [Nearby History](https://openlibrary.org/works/OL2987596W/Nearby_History) (2000)_
+Note: From David Kyvig and Myron Marty, [Nearby History](https://openlibrary.org/works/OL2987596W/Nearby_History) (2000)
 
 --
 
 ### How do you answer good questions about the past?
 
-An answer to your question is the goal of your research:
+A good answer to a good question includes:
 
 - A description of the past
 - Measurement of change over time
 - An analysis of cause and consequence
 
 Note: Kyvig and Marty suggest that historical questions should have answers that include these three elements.
-
---
-
-## What questions do you want to ask?
-
-Share your questions with your neighbors.
-
-Note: **Activity**: What do my neighbors think?
-
-1. Think of a research question about a historic places in your neighborhood.
-2. Share the research question on a neighborhood Facebook group, email listserv, or
 
 ---
 
@@ -192,7 +194,7 @@ Note: In the past, architectural historians have often focused on the well-known
 
 ## How do historians think about places today?
 
-Today, many historians interested in buildings study **"vernacular architecture"**: the common buildings that make up most neighborhoods and cities.
+Today, many historians interested in buildings study **vernacular architecture** or the common buildings that make up most neighborhoods and cities.
 
 --
 
@@ -215,6 +217,34 @@ Note: Using this flexible definition, historians Thomas Carter and Elizabeth Col
 - **Global**: Worldwide diffusion of culture
 
 Note: Carter and Cromley divide "vernacular communities" into five categories based on size and scale. These categories are _not_ mutually exclusive.
+
+--
+
+## How are places shaped by community?
+
+Look for patterns in the design of places:
+
+- Time
+- Space
+- Form (Style and Type)
+- Function
+- Technology
+
+Note: There are five main approaches for analyzing vernacular architecture.
+
+Research isn't just about finding sources or collecting evidence. Research is about **analysis** when you try to answer your research questions. These approaches are the "point at which the architectural and archival evidence join to reveal the **patterns of behavior** that are the goal of the research process." They require you to combine different kinds of evidence:
+
+> "These two bodies of evidence—words and things—interweave to yield a composite portrait of the patterns of behavior we seek to uncover."
+
+See Carter and Cromley, p. 45-47 for more.
+
+---
+
+## What questions do you want to ask?
+
+Share your questions with your neighbors.
+
+Note: [What questions do you want to ask? – Explore Baltimore Heritage 101: Research Activity](https://docs.google.com/document/d/1SfC18ebP1973khaMNeTF1t8O8AmEbe6f44Gfh9Np7i4/edit?usp=sharing)
 
 ---
 
@@ -253,6 +283,10 @@ Adapted from [What are the Documents?](http://www.williamcronon.net/researching/
 
 ## How do questions and sources work together?
 
+Your research questions guide your search for sources.
+
+Your sources guide your research questions.
+
 Note: Research is an iterative process and your questions depend on available time and sources.
 
 > You will go through many of the same steps again and again. You will have to read documents, pursue interesting ideas, read some more, create more questions, find documents, and so on. Continue doing this until you reach a question that is small enough that you think you could answer it in the time available to you.
@@ -260,14 +294,6 @@ Note: Research is an iterative process and your questions depend on available ti
 From [How to Frame a Researchable Question](http://www.williamcronon.net/researching/questions.htm)
 
 ---
-
-## What sources are available for local history?
-
-![Buildings leave a trail of evidence](/presentations/images/2016-06-20-buildings-trail-evidence.png)
-
-Note: Adapted from [What are the Documents?](http://www.williamcronon.net/researching/documents.htm)
-
---
 
 ## What sources are available for local history?
 
@@ -280,42 +306,11 @@ Note: Adapted from [What are the Documents?](http://www.williamcronon.net/resear
 - Interviews
 - Buildings and Landscapes
 
---
-## How do you search for sources?
-
-- Different sources are organized in different ways.
-- Finding what you are looking for require different strategies.
-- Generate search terms around
-
-Note: We are going to focus on using keywords to search through digitized text-based sources (like newspapers or digitized books).
-
----
-
-## How do you search for sources with keywords?
-
-Keywords can  be:
-
-- Toponyms (names of places)
-- Locations (street names, addresses)
-- Uses (name of a related business or activity)
-- People (name of related individuals)
-- Events (e.g. dedication, ground-breaking, etc.)
+Note: Adapted from [What are the Documents?](http://www.williamcronon.net/researching/documents.htm)
 
 --
 
-![Google Books](/presentations/images/2016-06-18-google-books.png)
-
---
-
-![Chronicling America](/presentations/images/2016-06-18-chronicling-america.png)
-
---
-
-![Digital Maryland](/presentations/images/2016-06-18-digital-maryland.png)
-
---
-
-![Library of Congress Pictures and Photographs](/presentations/images/2016-06-18-librarycongress-pictures.png)
+![Buildings leave a trail of evidence](/presentations/images/2016-06-20-buildings-trail-evidence.png)
 
 --
 
@@ -323,17 +318,59 @@ Keywords can  be:
 
 ![Where do you start your search?](/presentations/images/2016-06-20-where-start-search.png)
 
---
+---
 
-### Public Records and Documents
+## What sources are available online?
 
---
-
-### Newspapers
+Online resources (especially resources that open to full text search) are a key resource for local history.
 
 --
 
-### Maps
+![Google Books](/presentations/images/2016-06-18-google-books.png)
+
+Note: Google Books include trade journals, assorted government publications,
+
+--
+
+![Digital Maryland](/presentations/images/2016-06-18-digital-maryland.png)
+
+Note: Digital Maryland includes various local history collections both text and image based.
+
+--
+
+![Library of Congress Pictures and Photographs](/presentations/images/2016-06-18-librarycongress-pictures.png)
+
+Note: Includes material from the Historic American Building Survey.
+
+--
+
+![Chronicling America](/presentations/images/2016-06-18-chronicling-america.png)
+
+--
+
+![ProQuest Historical Newspapers Database](/presentations/images/2016-06-18-proquest-historical-newspapers.png)
+
+---
+
+## How do you search for sources?
+
+- Different sources are organized in different ways.
+- A systematic and deliberate approach to search saves time and worry.
+- Databases like the ProQuest Historical Newspapers Database make it possible to use full text search to locate documents.
+
+Note: We are going to focus on using keywords to search through digitized text-based sources (like newspapers or digitized books).
+
+--
+
+## How do you search for sources with keywords?
+
+Keywords can  be:
+
+- Toponyms: names of places
+- Locations: street names, addresses
+- Uses: name of a related business or activity
+- People: name of related individuals
+- Events: dedication, ground-breaking, etc.
 
 ---
 
@@ -413,3 +450,13 @@ One way to practice and develop your local history research skills is by contrib
 - [Research Skills Assignments](http://gethelp.library.upenn.edu/faculty/researchassignments.html)
 - [Teaching Inquiry with Primary Sources](http://loc.gov/teachers/tps/quarterly/inquiry_learning/article.html)
 - [Stripling Model of Inquiry (PDF)](http://loc.gov/teachers/tps/quarterly/inquiry_learning/pdf/StriplingModelofInquiry.pdf)
+
+---
+
+Image Credits:
+
+- [House by Artem Kovyazin, RU](https://thenounproject.com/term/house/467145/) (CC-BY) from [The Noun Project](https://thenounproject.com/)
+- [Snail by Pencil, SK](https://thenounproject.com/term/snail/340890/) (CC-BY) from [The Noun Project](https://thenounproject.com/)
+- [Lease by Code for America, US](https://thenounproject.com/term/lease/76841/) (PD) from [The Noun Project](https://thenounproject.com/)
+- [GIS by Iconathon, US](https://thenounproject.com/term/gis/14294/) (PD) from [The Noun Project](https://thenounproject.com/)
+- [Historical Newspaper by Iconathon, US](https://thenounproject.com/term/historical-newspaper/21042/) (PD) from [The Noun Project](https://thenounproject.com/)

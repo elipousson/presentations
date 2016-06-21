@@ -78,11 +78,11 @@ Note: **Public artworks and monuments** are not buildings but they are a common 
 
 ## What makes places different?
 
-How are places shaped by different factors?
+What characteristics make one place different than another?
 
-- **physical context** (rural, suburban, urban)
-- **use** (agricultural, commercial, domestic, and industrial)
-- **age** (very old or very new)
+- **physical context**: rural, suburban, urban
+- **use**: agricultural, commercial, domestic, and industrial
+- **age**: old or new
 
 --
 
@@ -132,13 +132,12 @@ TODO: Think of more examples to fill in the slides in this section.
 Local historians often have different goals than academic historians. Your goal does not need to be complicated:
 
 > "Often the goal of inquiry is simply an accurate portrayal of of an event, personality, set of conditions, or place at some past moment."
-> — David Kyvig and Myron Marty, [Nearby History](https://openlibrary.org/works/OL2987596W/Nearby_History) (2000)
+
+Note: From David Kyvig and Myron Marty, [Nearby History](https://openlibrary.org/works/OL2987596W/Nearby_History) (2000)_
 
 --
 
-### What kind of questions do local historians ask?
-
-Common research topics for local historians range from intimate subjects like _family_ to more distant subjects like _cities_:
+### How do local historians focus their research?
 
 - **Families**: relationships, movement, daily life, public affairs, education
 - **Residences**: physical features, ownership, use
@@ -146,7 +145,7 @@ Common research topics for local historians range from intimate subjects like _f
 - **Organizations**: businesses, schools, religious groups, voluntary associations
 - **Cities**: society, economy, justice, health government
 
-Note: These are the categories that David Kyvig and Myron Marty suggest to categorize research questions.
+Note: Common research topics for local historians range from intimate subjects like _family_ to more distant subjects like _cities_. These are the categories that David Kyvig and Myron Marty suggest to categorize research questions.
 
 --
 
@@ -155,7 +154,8 @@ Note: These are the categories that David Kyvig and Myron Marty suggest to categ
 Often your challenge is _not_ coming up with a topic or a question. It is deciding what topics _you_ care about.
 
 > Nearly everyone is surrounded by a vast assortment of people, objects, and institutions, each with potentially interesting past about which an enormous amount of information exists in one form or another.
-> — David Kyvig and Myron Marty, [Nearby History](https://openlibrary.org/works/OL2987596W/Nearby_History) (2000)
+
+_From David Kyvig and Myron Marty, [Nearby History](https://openlibrary.org/works/OL2987596W/Nearby_History) (2000)_
 
 --
 
@@ -192,14 +192,15 @@ Note: In the past, architectural historians have often focused on the well-known
 
 ## How do historians think about places today?
 
-Today, many historians interested in buildings study **"vernacular architecture"**—the common buildings that make up most neighborhoods and cities.
+Today, many historians interested in buildings study **"vernacular architecture"**: the common buildings that make up most neighborhoods and cities.
 
 --
 
 ### What is vernacular architecture?
 
 > Vernacular architecture is the common building of a given place and time.
-> — Eric Mercer, English Vernacular Houses (1975)
+
+_~ Eric Mercer, English Vernacular Houses (1975)_
 
 Note: Using this flexible definition, historians Thomas Carter and Elizabeth Collins Cromley in [Invitation to Vernacular Architecture](https://openlibrary.org/works/OL17343095W/Invitation_to_Vernacular_Architecture) (2005) suggest organizing your research around the _kind of community_ you are looking at, rather than the specific characteristics of a building.
 
@@ -230,16 +231,23 @@ Note: At the center of the research process are the sources you use to understan
 
 ## What is a source?
 
-Sources (also known to historians as "documents" or "evidence") are how we learn about the past.
-
 - Sources are created by people.
 - Sources always come from a place and time.
 - Almost anything can be a source.
 - Some sources are more useful than others.
 - What makes a source useful is how you use it.
-- Questions and sources work and change together.
 
-Note: Adapted from [What are the Documents?](http://www.williamcronon.net/researching/documents.htm)
+Note: Sources (also known to historians as "documents" or "evidence") are how we learn about the past.
+
+Adapted from [What are the Documents?](http://www.williamcronon.net/researching/documents.htm)
+
+--
+
+## What do you do with sources?
+
+- Determine what sources are **available** and **relevant**
+- Develop a **search strategy** based around search queries or keywords
+- Evaluate the **credibility** of your sources
 
 --
 
@@ -255,9 +263,13 @@ From [How to Frame a Researchable Question](http://www.williamcronon.net/researc
 
 ## What sources are available for local history?
 
-![Buildings leave a trail of evidence](/presentations/images/2016-06-21-buildings-leave-evidence.png)
+![Buildings leave a trail of evidence](/presentations/images/2016-06-20-buildings-trail-evidence.png)
 
-Note: Here are some of the sources available:
+Note: Adapted from [What are the Documents?](http://www.williamcronon.net/researching/documents.htm)
+
+--
+
+## What sources are available for local history?
 
 - Public Records and Documents
 - Periodicals
@@ -268,15 +280,48 @@ Note: Here are some of the sources available:
 - Interviews
 - Buildings and Landscapes
 
-Adapted from [What are the Documents?](http://www.williamcronon.net/researching/documents.htm)
+--
+## How do you search for sources?
+
+- Different sources are organized in different ways.
+- Finding what you are looking for require different strategies.
+- Generate search terms around
+
+Note: We are going to focus on using keywords to search through digitized text-based sources (like newspapers or digitized books).
+
+---
+
+## How do you search for sources with keywords?
+
+Keywords can  be:
+
+- Toponyms (names of places)
+- Locations (street names, addresses)
+- Uses (name of a related business or activity)
+- People (name of related individuals)
+- Events (e.g. dedication, ground-breaking, etc.)
+
+--
+
+![Google Books](/presentations/images/2016-06-18-google-books.png)
+
+--
+
+![Chronicling America](/presentations/images/2016-06-18-chronicling-america.png)
+
+--
+
+![Digital Maryland](/presentations/images/2016-06-18-digital-maryland.png)
+
+--
+
+![Library of Congress Pictures and Photographs](/presentations/images/2016-06-18-librarycongress-pictures.png)
 
 --
 
 ## What sources are most useful for local history?
 
-1. Public records and documents
-2. Newspapers
-3. Maps
+![Where do you start your search?](/presentations/images/2016-06-20-where-start-search.png)
 
 --
 
@@ -291,50 +336,6 @@ Adapted from [What are the Documents?](http://www.williamcronon.net/researching/
 ### Maps
 
 ---
-
-## How do you search for sources?
-
-We are going to focus on using keywords to search through digitized text-based sources (like newspapers or digitized books).
-
-- Different sources are organized in different ways.
-- Finding what you are looking for require different strategies.
-
---
-
-## What
-
----
-
-## How can places be used as a source?
-
-There are five main approaches for analyzing vernacular architecture:
-
-- Time
-- Space
-- Form
-- Function
-- Technology
-
-Note: Research isn't just about finding sources or collecting evidence. Research is about **analysis** when you try to answer your research questions. These approaches are the "point at which the architectural and archival evidence join to reveal the **patterns of behavior** that are the goal of the research process." They require you to combine different kinds of evidence:
-
-> "These two bodies of evidence—words and things—interweave to yield a composite portrait of the patterns of behavior we seek to uncover."
-
-See Carter and Cromley, p. 45-47 for more.
-
----
-
-## How do you make sense of the evidence you find?
-
----
-
-## How do you search for sources?
-
-- Thinking about sources
-- Determine what sources are **available** and **relevant**
-- Develop a **search strategy** based around search queries or keywords
-- Evaluate the **credibility** of your sources continuously
-
---
 
 ### Searching with key words
 
@@ -396,153 +397,19 @@ What do you do if your first choice doesn't work?
 
 ---
 
-# Activities
+## Practice Research Skills
 
 One way to practice and develop your local history research skills is by contributing to a larger crowd-sourced project:
 
 - [History Unfolded](https://newspapers.ushmm.org/), U.S. Holocaust Memorial Museum: Build your expertise in finding events in historic newspaper databases by volunteering to research how local newspapers covered the Holocaust and then submit the articles you find to the History Unfolded online database.
 - [Building Inspector](http://buildinginspector.nypl.org/), New York Public Library Labs: Build your understanding of historical atlases by volunteering as a citizen cartographers for the New York Public Library identifying buildings and other details on beautiful old maps
 
-Another way to practice is
-
-- [Two Houses Diverged in a Neighborhood](https://gist.github.com/elipousson/e742d3efbf1d620d3b196b76b6a132c5), Eli Pousson
-
-
----
-
-## How do you think about the research process?
-
-One way of looking at the research process is the Stripling Model of Inquiry:
-
-1. Wonder: How do you come up with a question?
-2. Investigate: How do you search for sources?
-3. Construct: How do you use primary sources?
-4. Express: How do you share your research?
-5.  Reflect: How do you ask new questions?
-6. Connect: How do you put your research in context?
-
-Note: There are many different ways to describe the research process. These categories are based on the [Stripling Model of Inquiry](http://loc.gov/teachers/tps/quarterly/inquiry_learning/pdf/StriplingModelofInquiry.pdf).
-
 ---
 
 # Related Resources
 
-
-- Thinking like a Historian
-	- [Intro to Historical Thinking](http://teachinghistory.org/historical-thinking-intro)
-	- [Teaching with Primary Sources](http://teachinghistory.org/teaching-materials/teaching-guides/25690)
+- [Intro to Historical Thinking](http://teachinghistory.org/historical-thinking-intro)
+- [Teaching with Primary Sources](http://teachinghistory.org/teaching-materials/teaching-guides/25690)
 - [Research Skills Assignments](http://gethelp.library.upenn.edu/faculty/researchassignments.html)
 - [Teaching Inquiry with Primary Sources](http://loc.gov/teachers/tps/quarterly/inquiry_learning/article.html)
 - [Stripling Model of Inquiry (PDF)](http://loc.gov/teachers/tps/quarterly/inquiry_learning/pdf/StriplingModelofInquiry.pdf)
-
----
-
-
-[Quick Start Guide to Zotero](https://www.zotero.org/support/quick_start_guide)
-
----
-
-## Availability of sources
-
-Resources available in-person
-Resources available online (Digital Sources)
-Resources available for free online (Public Web)
-Resources that someone has to pay to access (Gated Web)
-
-- Libraries
-- Archives
-
----
-
-## Coverage of sources
-
-- Geography
-- Temporal
-- Identity/Relationships: Race, gender, class, e.g. Afro v. Sun for the Madison Avenue house
-
----
-
-## What makes local history a bit different?
-
-Secondary sources:
-
-- Maybe there has been little or nothing written about your particular topic. So you may need to look for comparable examples — e.g. are there histories of other cemeteries established around the same time? Are there histories of other people who lived in a neighborhood?
-
-Primary sources:
-
-- Maybe sources on the building are difficult to locate. Built outside the city before the creation of Sanborn maps for that area, or occupied by residents who did not attract much attention from newspaper reporters.
-
-Searching full-text sources makes local history possible in new ways.
-
----
-
-Illustrated slides on form ... etc. from VAF book
-
-Toponyms
-- location
-- names of uses
-Proximate toponyms
-
-People
-
-Events
-
-- Building related events
-- Dedication
-
-## What sources are we looking at?
-
-Focus on searching full-text digitized sources:
-
-If you know the author or title of the book you are looking for, searching the catalog by author or title (rather than keyword) is usually the quickest way to find it.
-
-If you do not know the exact title of the book you are looking for, try searching for the book on Amazon.Amazon will give you the book's exact title, which you can then use to search for the book in your library's catalog.
-
-To find all the books in the library by a given author, browse by the author's last name or click on the author's name in the catalog record for a book.
-
-Most library catalogs allow you to search by “keyword” or “words anywhere.” This search finds catalog records that include your search term anywhere in the title, subject, author, or other fields. It is not foolproof, however. Besides the fact that you must spell the term exactly as it is spelled in the catalog, catalog records are very short—so short that they cannot include all of the major terms related to a book's subject. This kind of search may also give you results that happen to include all the words you used, but are not about your topic.
-
-To search for two or more words as a connected phrase, put the phrase in quotation marks. A search for “Yellowstone National Park” will only find records that include that exact phrase. It would not return results with “Yellowstone Park” or another variation.
-
-Most library catalogs use ? or \* as wildcards or truncation symbols. If you shorten a word using a truncation symbol, the catalog will find all variants of that word. A search for “wol?,” for example, will return records that include wolf, wolves, and wolverines—as well as wold, wolds, and wolfawitz.
-
-Use Boolean operators—and, or, but not—to broaden or narrow your search. A search for wolves and Yellowstone will only find catalog records that include both terms, while a search for wolves or Yellowstone will find all the records that include either term. A search for Yellowstone but not tourism will retrieve all the records on Yellowstone except those that include the word tourism.
-
----
-
-Bibliographies
-
-This is the most effective—and efficient—research technique. If you use the first sources you find to uncover other sources, you will write a much stronger paper than you will if you find all of your sources through keyword searches.
-
-Why? Because tracking down the books and articles that your sources cite will propel you into the middle of a conversation about your topic. As you come to understand how various writers have interpreted your topic—how they respond to, revise, or disagree with each other—you will figure out exactly what you want to contribute.
-
----
-
-# More on the 5Cs
-
-
-
-### Change over time
-
-
-Note: "As historians of the American West and environmental historians, we often turn to maps to teach change over time. The same space represented in different ways as political power, economic structures, and cultural influences shift can often put in shocking relief the differences that time makes."
-
---
-
-### Context
-
-Note: "Working with primary sources, they discover that the past makes more sense when they set it within two frameworks. In our teaching, we liken the first to the floating words that roll across the screen at the beginning of every Star Warsfilm. This kind of context sets the stage; the second helps us to interpret evidence concerning the action that ensues. Texts, events, individual lives, collective struggles—all develop within a tightly interwoven world."
-
---
-
-### Causality
-
-Note: "To teach causality, we have turned to the stand-by activities of the history classroom: debates and role-playing. After arming students with primary sources, we ask them to argue whether monetary or fiscal policy played a greater role in causing the Great Depression. After giving students descriptions drawn from primary sources of immigrant families in Los Angeles, we have asked students to take on the role of various family members and explain their reasons for immigrating and their reasons for settling in particular neighborhoods. Neither exercise is especially novel, but both fulfill a central goal of studying history: to develop persuasive explanations of historical events and processes based on logical interpretations of evidence."
-
---
-
-### Contingency
-
---
-
-### Complexity

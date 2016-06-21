@@ -17,7 +17,7 @@ We plan to published the finished version of this presentation on the [Explore B
 
 # Introduction
 
-Note: This presentation has two parts.
+Note: This presentation has two parts
 
 --
 
@@ -186,9 +186,13 @@ Note: Kyvig and Marty suggest that historical questions should have answers that
 
 ## How did historians think about places in the past?
 
-![The Belvedere Hotel, 1 East Chase Street, Baltimore, MD, January 13, 2011](https://c2.staticflickr.com/6/5085/5368889506_3abc491639_b.jpg)
+![Evergreen House, 2005. Courtesy Johns Hopkins University Museums, Evergreen Museum & Library](http://explore.baltimoreheritage.org/files/original/f06b94b5cb0e76546c1aa4d9c28f0edb.jpg)
 
 Note: In the past, architectural historians have often focused on the well-known individual architects or the design of ornate buildings (sometimes known as **high-style buildings**).
+
+About the [Evergreen House](http://explore.baltimoreheritage.org/items/show/33)
+
+With 48 rooms, a soaring portico, and a Tiffany designed glass canopy, Evergreen House stands out as one of Baltimore's best Gilded Age mansions. The house was originally built in 1857 by the Broadbent Family. John Work Garrett, president of the B&O Railroad and a burgeoning railroad tycoon, purchased the mansion 19 years later (in 1878) for his son T. Harrison Garrett. (Incidentally, five years before this, John Work Garrett purchased the Garrett Jacobs Mansion on Mount Vernon Place for his other son, Robert). The Mansion was expanded in the 1880s and again in the 1920s by two generations of Garrett family members.
 
 --
 
@@ -222,7 +226,7 @@ Note: Carter and Cromley divide "vernacular communities" into five categories ba
 
 ## How are places shaped by community?
 
-Look for patterns in the design of places:
+Look for patterns in places:
 
 - Time
 - Space
@@ -240,11 +244,11 @@ See Carter and Cromley, p. 45-47 for more.
 
 ---
 
-## What questions do you want to ask?
+## What questions do you want to ask about places?
 
 Share your questions with your neighbors.
 
-Note: [What questions do you want to ask? – Explore Baltimore Heritage 101: Research Activity](https://docs.google.com/document/d/1SfC18ebP1973khaMNeTF1t8O8AmEbe6f44Gfh9Np7i4/edit?usp=sharing)
+Note: [What questions do you want to ask?](https://docs.google.com/document/d/1SfC18ebP1973khaMNeTF1t8O8AmEbe6f44Gfh9Np7i4/edit?usp=sharing)
 
 ---
 
@@ -312,11 +316,13 @@ Note: Adapted from [What are the Documents?](http://www.williamcronon.net/resear
 
 ![Buildings leave a trail of evidence](/presentations/images/2016-06-20-buildings-trail-evidence.png)
 
+Note: Think about the people who make a building and live in a building. What sources do they create in their lives and work? What does the city create in regulating or taxing the building?
+
 --
 
-## What sources are most useful for local history?
-
 ![Where do you start your search?](/presentations/images/2016-06-20-where-start-search.png)
+
+Note: What sources are most useful for local history?
 
 ---
 
@@ -348,7 +354,23 @@ Note: Includes material from the Historic American Building Survey.
 
 --
 
+![Baltimore directory, 1816 from the Internet Archive](/presentations/images/2016-06-18-baltimore-directory-1816.png)
+
+--
+
+![University of Baltimore Broadcasting Collections from the Internet Archive](/presentations/images/2016-06-18-ub-broadcasting-collections.png)
+
+--
+
 ![ProQuest Historical Newspapers Database](/presentations/images/2016-06-18-proquest-historical-newspapers.png)
+
+---
+
+## How do we search the ProQuest Historical Newspapers Database?
+
+Let's practice using keyword search to locate newspaper articles, advertisements, or editorials related to a historic place you select. Make sure you have [Zotero](https://www.zotero.org/) installed!
+
+Note: See [Searching with ProQuest Historical Newspapers](https://docs.google.com/document/d/14m3tbFBeL5fGynJyo3pFBxIw8poFabXrqA5tFMmefBI/edit?usp=sharing) for more information.
 
 ---
 
@@ -366,42 +388,46 @@ Note: We are going to focus on using keywords to search through digitized text-b
 
 Keywords can  be:
 
-- Toponyms: names of places
-- Locations: street names, addresses
-- Uses: name of a related business or activity
-- People: name of related individuals
-- Events: dedication, ground-breaking, etc.
+- **Toponyms:** names of places
+- **Locations:** street names, addresses
+- **Uses:** name of a related business or activity
+- **People:** name of related individuals
+- **Events:** dedication, ground-breaking, etc.
 
----
+Note:
 
-### Searching with key words
-
-How to come up with key words:
+How do you come up with key words?
 
 - Write your research questions
 - Turn research questions into keywords
 - Choose nouns instead of verbs (sometimes)
 
-How to search with keywords:
+---
 
-- Start with general keywords
+### What do you do with keywords?
+
+- Start by searching with general keywords
 - Try new combinations systematically
 - Use more precise terms as you progress
 - Pair primary keywords serially with secondary keywords
 
-What do you do if your first choice doesn't work?
-
---
-
-### Evaluate the credibility of sources
+Note: What do you do if your first choice doesn't work?
 
 ---
 
-## How do you make sense of the evidence you find?
+## How do you make sense of the sources you find?
+
+- Who created the source?
+- When did they create the source?
+- How did you get the source?
+- What is clear to you from the source? What is confusing?
+- What questions are not answered by the source?
 
 ---
 
-## Station North in Maps
+## How can you use maps to research a place?
+
+One map is useful. Many maps are even more useful.
 
 --
 
@@ -431,10 +457,16 @@ What do you do if your first choice doesn't work?
 
 ![1940s: Streetcar map of Central Baltimore. Image courtesy JHU, Sheridan Libraries.](http://i2.wp.com/baltimoreheritage.org/wp-content/uploads/2014/03/central-baltimore-GP56.jpg)
 
+---
+
+## How to research historic places in Baltimore
+### Explore Baltimore Heritage 101
+
+Eli Pousson, [Baltimore Heritage](http://baltimoreheritage.org/) | June 21, 2016
 
 ---
 
-## Practice Research Skills
+## Keep Learning
 
 One way to practice and develop your local history research skills is by contributing to a larger crowd-sourced project:
 
@@ -453,7 +485,7 @@ One way to practice and develop your local history research skills is by contrib
 
 ---
 
-Image Credits:
+## Image Credits
 
 - [House by Artem Kovyazin, RU](https://thenounproject.com/term/house/467145/) (CC-BY) from [The Noun Project](https://thenounproject.com/)
 - [Snail by Pencil, SK](https://thenounproject.com/term/snail/340890/) (CC-BY) from [The Noun Project](https://thenounproject.com/)

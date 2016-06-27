@@ -12,10 +12,10 @@ Note:
   - Discuss the importance of narrative to engaging historical writing
   - Activity 2: Make an outline for a story
 - What are the common challenges with historical writing?
-  - Discuss presentism, quaintness,
-  - Activity 3: Write your own story while avoiding the common challenges
+  - Discuss presentism, quaintness, etc.
+  - Activity 3: Write your own story while avoiding the common challenges (after the end of class)
 
-Additional ideas for activities:
+Additional ideas for follow up activities:
 
 - Collaborate on writing a timeline with compelling claims presented alongside evidence (each student writes an entry on the timeline)
 - Write a caption for an old photograph with evocative language, emotional content for historical events
@@ -31,7 +31,7 @@ Note:
 Writing starts with a good question. Lepore writes: "Good questions come in all shapes and sizes. Very roughly, you can sort yours into two piles:
 
 - One kind is more empirical (what happened?)
-- The other is historiographical (what’s at stake in the debate among historians about what happened?)
+- The other is historiographical (what's at stake in the debate among historians about what happened?)
 
 Overall, you should focus on asking:  How do you write for an audience?
 
@@ -52,7 +52,7 @@ Overall, you should focus on asking:  How do you write for an audience?
 
 Note:
 
-Lepore writes: "Show your reader your evidence, whenever you can—quote from the primary documents—but don’t assume that those quotations explain themselves; offer a close reading."
+Lepore writes: "Show your reader your evidence, whenever you can—quote from the primary documents—but don't assume that those quotations explain themselves; offer a close reading."
 
 --
 
@@ -101,8 +101,7 @@ Lepore explains:
 
 ### Work from a plan
 
->"Good work has parts: beginning, middle, and ending... The reader who sees the big parts is more likely to remember to whole story."
->—Roy Peter Clark
+>"Good work has parts: beginning, middle, and ending... The reader who sees the big parts is more likely to remember to whole story." ~ Roy Peter Clark
 
 Note:
 
@@ -120,7 +119,7 @@ Note:
 
 Note:
 
-Lepore: "If you don’t make an outline, you might as well throw your fish back into the water, guts and all."
+Lepore: "If you don't make an outline, you might as well throw your fish back into the water, guts and all."
 
 Stories can be organized in different ways:
 
@@ -131,8 +130,7 @@ Stories can be organized in different ways:
 
 ### Tell a whole story
 
-> "It is far better to discuss a few aspects well than many aspects superficially."
->—William Cronon
+> "It is far better to discuss a few aspects well than many aspects superficially." ~ William Cronon
 
 Note:
 
@@ -142,7 +140,9 @@ Note:
 
 ### Beginning
 
-You might want to write your beginning at the end. How do you start?
+You might want to write your beginning at the end.
+
+How do you start a story?
 
 - Describe a historical event
 - Introduce a quotation from a historical source
@@ -151,7 +151,7 @@ You might want to write your beginning at the end. How do you start?
 
 Note:
 
->An standard introduction draws in the reader, establishes the paper’s topic, and explains the writer’s argument. An excellent introduction goes further: it makes a reader think they have already read the paper!
+>An standard introduction draws in the reader, establishes the paper's topic, and explains the writer's argument. An excellent introduction goes further: it makes a reader think they have already read the paper!
 
 - Describe a historical event: Some of the best history writing begins with a rich description of a historic moment.
 - Introduce a quotation from a historical text: You can never go wrong with a juicy quotation. Plus, doing so shows that you have undertaken primary research.
@@ -161,7 +161,7 @@ Source: [Hi, My Name Is: Introductions](http://history.wisc.edu/historylab_intro
 
 Lepore:
 
-> Another very wise historian once said, “You only ever know what you have to say when you think of a title.” I have often found that to be true. A title, though, is mainly an answer to your question, so one way to know it’s time to start writing is if a title springs to mind.
+> Another very wise historian once said, “You only ever know what you have to say when you think of a title.” I have often found that to be true. A title, though, is mainly an answer to your question, so one way to know it's time to start writing is if a title springs to mind.
 
 Additional tools for beginnings include:
 
@@ -172,7 +172,7 @@ Additional tools for beginnings include:
 
 ### Middle
 
-Reward the reader with high points—gold coins placed along the path.
+Reward the reader with high points. Place gold coins along the path.
 
 Readers make predictions for what lies ahead. When readers read chronological narratives, they wonder what will happen next.
 
@@ -201,7 +201,7 @@ Note:
 
 Lepore:
 
-> Lots of essays begin but never end; they merely stop. Make sure to end. It’s not over till there’s nothing left but the bones, and the smell of the ocean.
+> Lots of essays begin but never end; they merely stop. Make sure to end. It's not over till there's nothing left but the bones, and the smell of the ocean.
 
 Reality is messy but readers seek closure.
 
@@ -218,17 +218,34 @@ Reality is messy but readers seek closure.
 
 Remember, other parts of your story need endings too. Sentences have endings. Paragraphs have endings.
 
+--
+
+## Let's outline a story
+
+Pick a place you know well (even if you don't know the history). Write an outline for story about the place.
+
+Note:
+
+1. Ask everyone to pick a place. Pass out blank notecards.
+2. Take 5 minutes to write an outline for a story about the place. It should have at least 5 acts to the story. The first is your beginning. The last is your ending.
+3. Go around and ask people to share their stories.
+4. Discuss: Why did you order the story this way? How did you incorporate the tools we discussed to make good beginnings, middles, and endings?
+
 ---
 
 ## Common Challenges
 
 Where do people struggle when writing about the past?
 
+Note:
+
+Depending on how much time is available at this point in the presentation, this section may be an opportunity for discussion or serve as a quick wrap-up to the class.
+
 --
 
 ### Accuracy
 
-"No one asked us to be keepers of the flame of history; we’ve taken it on ourselves. When we choose to write nonfiction, our first commitment is not to be readable or to educate or to curry favor with our readers. It is to be as accurate as possible."
+"No one asked us to be keepers of the flame of history; we've taken it on ourselves. When we choose to write nonfiction, our first commitment is not to be readable or to educate or to curry favor with our readers. It is to be as accurate as possible."
 
 Note:
 
@@ -240,7 +257,7 @@ Source: Adventures in History, Melissa Fay Greene from Narrative Nonfiction p. 8
 
 ### Quaintness
 
-"There wasn’t anything quaint about the pilgrims. The past wasn’t simpler than the present. People were not kinder or dumber or gentler than they are now. At the same time, don’t lapse into a progressive interpretation of history. Things don’t always get better over time."
+"There wasn't anything quaint about the pilgrims. The past wasn't simpler than the present. People were not kinder or dumber or gentler than they are now. At the same time, don't lapse into a progressive interpretation of history. Things don't always get better over time."
 
 Note:
 
@@ -250,7 +267,7 @@ Source: Writing about History, Jill Lepore (list of  "potential pitfalls") from 
 
 ### Presentism
 
-"The central point of the story can’t be to explain to the reader why were are the way we are today. … Thinking too much about the present will lead you to ask the wrong questions about the past. Take the past on its own terms, not on ours."
+"The central point of the story can't be to explain to the reader why were are the way we are today. … Thinking too much about the present will lead you to ask the wrong questions about the past. Take the past on its own terms, not on ours."
 
 Note:
 
@@ -277,6 +294,24 @@ From [Who Said That?: or, Why, How, and When to Avoid the Passive Voice](http://
 
 ### Your reader is not an expert
 
+You are not your reader.
+
+Note:
+
+Assume that your reader does not know:
+
+- Where the place is located
+- What the place looks like
+- How the place may compare to other similar places in your community
+
+---
+
+## How to write about historic places in Baltimore
+### Explore Baltimore Heritage 101
+
+Eli Pousson, [Baltimore Heritage](http://baltimoreheritage.org/) | June 28, 2016
+
+
 ---
 
 ## What do you do now?
@@ -295,7 +330,7 @@ Options for getting started:
 
 - Try to type your table of contents first. It will give you a structure within which to work.
 - try dumping all the stuff from your brain onto the page or screen. Start with the introduction and just free-write and see how it goes. Then you can put all those horrible metaphors and dangling participles into your computer.
-- type out all of the quotes you’d like to use. That way, at least you have words on the page or screen, and that sense of accomplishment can be just the thing to get you into the writing groove.
+- type out all of the quotes you'd like to use. That way, at least you have words on the page or screen, and that sense of accomplishment can be just the thing to get you into the writing groove.
 - move to the section you like best, the one that will be easiest for you to write. Grab that gorgeous little pile of note cards and start entering all the most important information in your computer.
 
 ---
@@ -308,18 +343,11 @@ Note:
 
 [A Rare Medium: Revising a Paper That is Finished, but not Well Done](http://history.wisc.edu/historylab_revision.pdf)
 
-> “I’ve never published a word that I hadn’t heard going over my tongue because [of] the relationship of one sentence to another sentence. A perfectly good sentence may have to be changed because sentence number two makes it a little awkward rhythmically.... Number three does that to two and one and so on. That’s why first drafts are so awful. A significant goal for me is just to hear this thing and I read it generally to my wife…then I go back to work on it, make the rhythm better.”
+> “I've never published a word that I hadn't heard going over my tongue because [of] the relationship of one sentence to another sentence. A perfectly good sentence may have to be changed because sentence number two makes it a little awkward rhythmically.... Number three does that to two and one and so on. That's why first drafts are so awful. A significant goal for me is just to hear this thing and I read it generally to my wife…then I go back to work on it, make the rhythm better.”
 > —John McPhee, National Public Radio, June 24, 2006
 
 >We tell stories with each other and against each other in order to speak to each other. Our readers, in short, play crucial roles in shaping the stories we tell. Just so has this essay gone through four separate incarnations to reach its present form, each of them responding in different ways to the critical communities that in a very real sense helped author them. No matter how frustrating this process of revision may be, the resulting text is in this case unquestionably better as a result.
 >—William Cronon in "A Place for Stories: Nature, History, and Narrative"
-
----
-
-## How to write about historic places in Baltimore
-### Explore Baltimore Heritage 101
-
-Eli Pousson, [Baltimore Heritage](http://baltimoreheritage.org/) | June 28, 2016
 
 ---
 

@@ -5,17 +5,15 @@ Eli Pousson, [Baltimore Heritage](http://baltimoreheritage.org/) | July 5, 2016
 
 ---
 
-# Introduction
+## Introduction
 
---
-
-- Why think about visuals and design?
+- Why should you think about visuals and design?
 - How do you reuse existing images?
 - How do you create new images?
 
 ---
 
-# Why think about visuals and design?
+# Why should you think about visuals and design?
 
 --
 
@@ -25,17 +23,22 @@ Eli Pousson, [Baltimore Heritage](http://baltimoreheritage.org/) | July 5, 2016
 - **Exhibits**: signage, panels, table displays
 - **Publications**: brochures, pamphlets, fliers
 
-Good stories about places use both words and visuals.
+Good stories about places use both words _and_ visuals.
 
 --
 
 ## What visuals elements do stories use?
 
 - Photographs
+- Prints
 - Videos
 - Graphics
 - Drawings
 - Maps
+
+--
+
+![Camp of the Massachusetts second compy., light artillery at Stewart's Place, Baltimore, Md](http://cdn.loc.gov/service/pnp/ds/00100/00118v.jpg)
 
 --
 
@@ -81,11 +84,13 @@ From the [Non-Designers Design Book](https://www.amazon.com/Non-Designers-Design
 - Layout
 - Photography
 
----
+--
 
 ## When do you start thinking about visuals?
 
-Start thinking of visuals at the _beginning_ of your research and writing. Ask yourself:
+Start thinking of visuals at the _beginning_ of your research and writing.
+
+Ask yourself:
 
 - What is the best way to represent your story visually?
 - Can you argue for the relevance of an image?
@@ -99,8 +104,8 @@ From [Ideas for Finding and Acquiring Photos Online](http://digitalservices.npr.
 
 ## Where can you get images?
 
-- Images created by others that you **reuse**
-- Images that you **create**
+- Images created by others that **you reuse**
+- Images that **you create**
 
 ---
 
@@ -124,11 +129,15 @@ Search digital collections _and_ collections of collections.
 
 --
 
+![Wikimedia Commons: Free Media Resources/Photography](/presentations/images/2016-07-05-wikimedia-free-media.png)
+
+--
+
 ![Library of Congress Prints and Photographs Collection](/presentations/images/2016-07-05-loc-prints-photos.png)
 
 --
 
-![Digital Public Library of America](/presentations/images/2016-07-05-flickr-commons.png)
+![Digital Public Library of America](/presentations/images/2016-07-05-dpla.png)
 
 --
 
@@ -167,7 +176,8 @@ Search local collections but _be careful_ about reuse.
 
 --
 
-## Image Reuse: True or False?
+## Image Reuse
+### True or False?
 
 --
 
@@ -198,20 +208,47 @@ List of common myths from [Ideas for Finding and Acquiring Photos Online](http:/
 
 --
 
+## What is the public domain?
+
+Two rules of thumb:
+
+- Works created by the federal government
+- Works created before 1923
+
+Note:
+
+Work created by federal contractors may not be in the public domain.
+
+For some state governments, work is immediately in the public domain.
+
+GLAMs use license agreements to place restrictions on pre-1923 works.
+
+--
+
 ## Attribution always matters
 
-You are not _required_ to provide attribution when you reuse a work in the public domain but attribution us _always_ a good idea. Attribution (or a record of public domain works you use) can help you (or others) find works again later if necessary. Attributions typically includes:
+You are not _required_ to provide attribution when you reuse a work in the public domain but attribution is _always_ a good idea.
+
+Attribution should include:
 
 - Source: Where did you get the image?
 - Creator: Who created the image?
 - Date: When was the image created?
+
+Note:
+
+Why attribute? Attribution can help you (or others) find works again later.
+
+Other information to include with an attribution:
+
+- Link
+- Identifier
 
 --
 
 ## What other works are available for reuse?
 
 Any work licensed with **Creative Commons** license may be reused with some restrictions.
-
 
 ---
 
@@ -228,7 +265,7 @@ Ask questions about the images you find:
 
 Note:
 
-"Reading photographs is done best by systematically addressing quesions about them."
+"Reading photographs is done best by systematically addressing questions about them."
 
 1. **Photographer:** "What did the photographer see when she took the picture? What is in the photograph that she possibly did not see? What were her purposes? What were her biases? Why did she pose people as she did? Why did she shoot from the vantage point the picture indicates? How did the circumstances in which the picture was taken limit the photographers choices?"
 2. **Frame:** "The eye would have seen the subject of the picture differently, for it could not have drawn an arbitrary boundary around a section of the field of vision. What was omitted from the picture that the eye would have seen? What effect does the framing have on one's sense of having been there? How would one's reaction to the picture change if the picture were to be cropped—that is, to have its frame reduced further?""
@@ -245,31 +282,61 @@ Related Resources
 
 ---
 
-## Example
+## Let's look at some images
 
+--
+
+![Pay day for the stevedores, Baltimore, Md.](http://cdn.loc.gov/service/pnp/det/4a10000/4a12000/4a12500/4a12584v.jpg)
 
 Note:
 
-About the Detroit Photographic Company
+[Source](http://www.loc.gov/pictures/item/det1994000881/PP/)
+
+**About the Detroit Photographic Company**
 
 "The Detroit Photographic Company began as a photographic publishing firm in the late 1890s. The founders, Detroit businessman and publisher William A. Livingston, Jr., and photographer and photopublisher Edwin H. Husher, obtained the exclusive rights to use the Swiss color photolithography "Photochrom" process. This process permitted the mass production of color postcards, prints, and albums for sale to the American market. In 1897 William Henry Jackson became a partner in the firm, adding thousands of negatives to the inventory, some taken as early as the 1870s. In 1905 the company changed its name to the Detroit Publishing Company. It went into receivership in 1924, and liquidated its assets in 1932." via [Yale Library](http://beinecke.library.yale.edu/collections/highlights/detroit-photographic-company%E2%80%99s-views-north-america-ca-1897-1924)
 
-Reminder
-- Send a link to a photograph
-- Collection of photographs
+--
 
-Reading a photograph
+![Pennsylvania Station, Baltimore, showing Charles Street and Jones Falls](http://cdn.loc.gov/service/pnp/det/4a20000/4a24000/4a24900/4a24911v.jpg)
 
-- Exercise is writing a caption (Caption in context)
-- Print out
-- Ten favorite historic places
+Note:
 
-1. Combine image and text
-  - [Pablo from Buffer](https://pablo.buffer.com/)
-  -
-2. Share an image
-3. Create a slideshow as a class
+[Pennsylvania Station, Baltimore, showing Charles Street and Jones Falls](http://www.loc.gov/pictures/item/det1994002111/PP/)
 
+--
+
+![Lexington Market, Baltimore, Md.](http://cdn.loc.gov/service/pnp/det/4a10000/4a10000/4a10900/4a10972v.jpg)
+
+Note:
+
+[Lexington Market, Baltimore, Md.](http://www.loc.gov/pictures/item/det1994009237/PP/)
+
+--
+
+![Lebow Brothers Clothing Company (1949): Photograph of a worker checking on equipment at the Lebow Brothers Clothing Company located at Oliver Street and Guilford Avenue](http://explore.baltimoreheritage.org/files/original/18be39beb825186bf4454067105950b1.jpg)
+
+Note: [Source: Baltimore Museum of Industry, BGE.21061. | Creator: Baltimore Gas & Electric Company](http://explore.baltimoreheritage.org/files/show/58)
+
+--
+
+![Baltimore Basilica, Baltimore, Maryland](http://cdn.loc.gov/service/pnp/highsm/16700/16726r.jpg)
+
+Note: [Baltimore Basilica, Baltimore, Maryland](http://www.loc.gov/pictures/item/2011634919/)
+
+---
+
+# How do you write about images?
+
+- Check the facts. Be accurate!
+- Avoid stating the obvious.
+- Avoid using terms like "is shown, is pictured, and looks on."
+
+Note: [Hot Tips for Writing Photo Captions](http://www.poynter.org/2002/hot-tips-for-writing-photo-captions/1753/)
+
+---
+
+## Let's write some captions
 
 ---
 
@@ -277,19 +344,58 @@ Reading a photograph
 
 ---
 
-## Most important aspects of an image
+## What is important to your image?
 
 1. Content
 2. Composition
 3. Light
 
----
+--
 
 ## Content
 
+- Places
+- People
+
+Note:
+
+It’s what you want to communicate to your audience, reader, viewer, whatever!
+
+Who are your characters?
+What are they doing?
+Where will they be?
+What’s the most important aspect of the story to SEE in order to understand?
+What’s the emotional essence of the story?
+
 --
 
-### What does your visual show?
+## Composition
+
+- Rule of Thirds
+- Leading Lines
+- Symmetry
+- Perspective
+- Framing
+
+--
+
+## Light
+
+- Pay special attention to backlighting
+- Pick the time of day depending on light, location, and activities
+
+Note:
+
+"Warm light is inviting and cozy. Cooler light feels distant and sad. When light is used well it helps give your image a tonal feel and helps the viewer focus on what you need them to see."
+
+---
+
+## How do you photograph a building?
+
+- Building faces
+- Setting
+- Details of windows, doors, and ornamentation
+- Interior views
 
 Note:
 
@@ -312,33 +418,92 @@ From [National Register Photo Policy](https://www.nps.gov/Nr/publications/bullet
 
 ---
 
-## Composition
+### Baltimore Trust Company Building, 10 Light Street
+
+Note: Photographs by James W. Rosenthal, Photographer, Summer 2001
 
 --
 
-### Rule of Thirds
+[![- Baltimore Trust Company Building, 10 Light Street, Baltimore, Independent City, MD](http://cdn.loc.gov/service/pnp/habshaer/md/md1500/md1566/color/214965cr.jpg)](http://www.loc.gov/pictures/item/md1566.color.214965c/resource/)
+
+Note: Front
 
 --
 
-### Framing
+![Baltimore Trust Company Building, 10 Light Street, Baltimore, Independent City, MD](http://cdn.loc.gov/service/pnp/habshaer/md/md1500/md1566/color/214966cr.jpg)
+
+Note: Back
+
+[Source](http://www.loc.gov/pictures/item/md1566.color.214966c/resource/)
+
+--
+
+![Entrance - Baltimore Trust Company Building, 10 Light Street, Baltimore, Independent City, MD](http://cdn.loc.gov/service/pnp/habshaer/md/md1500/md1566/color/214971cr.jpg)
+
+Note: Visible Details
+
+--
+
+![Baltimore Trust Company Building, 10 Light Street, Baltimore, Independent City](http://cdn.loc.gov/service/pnp/habshaer/md/md1500/md1566/color/214968cr.jpg)
+
+Note: Less Visible Details
+
+--
+
+![Detail - Baltimore Trust Company Building, 10 Light Street, Baltimore, Independent City, MD](http://cdn.loc.gov/service/pnp/habshaer/md/md1500/md1566/color/214973cr.jpg)
+
+Note: Small Details
 
 ---
 
-## Light
+## What free tools can you use to work with images?
+
+- [Pixlr](https://pixlr.com) or [PixlrExpress](https://pixlr.com/express/)
+- [Pablo from Buffer](https://pablo.buffer.com/app)
+- [Gif Maker](http://giphy.com/create/gifmaker) or [Slideshow](http://giphy.com/create/slideshow) from Giphy
 
 --
 
-### Backlighting
+## Collage
+
+![Penn Station Collage](/presentations/images/2016-07-05-penn-station-collage.jpg)
+
+_Made with [PixlrExpress](https://pixlr.com/express/)_
+
+Note: Photos courtesy Hughes Company, Library of Congress
 
 --
 
-### Time of day
+## Graphics
+
+![Penn Station Graphic](/presentations/images/2016-07-05-penn-station-graphic.jpg)
+
+_Made with [Pablo](https://pablo.buffer.com/app/)_
+
+--
+
+## Slideshow
+
+![Penn Station Slideshow](http://i.giphy.com/bQ2KA2d30Kcmc.gif)
+
+_Made with Giphy [Slideshow](http://giphy.com/create/slideshow)_
+
+Note:
+
+[2012 image courtesy Austin Kirk](https://www.flickr.com/photos/aukirk/8193948627/)
+
+--
+
+## Let's make something visual
 
 ---
 
-# Activities
+## How to use visuals for historic places in Baltimore
+### Explore Baltimore Heritage 101
 
----
+Eli Pousson, [Baltimore Heritage](http://baltimoreheritage.org/) | July 5, 2016
+
+Note:
 
 ## Make a slideshow
 
@@ -351,64 +516,12 @@ From [National Register Photo Policy](https://www.nps.gov/Nr/publications/bullet
 
 From NPR.
 
----
-
-## How to use visuals for historic places in Baltimore
-### Explore Baltimore Heritage 101
-
-Eli Pousson, [Baltimore Heritage](http://baltimoreheritage.org/) | July 5, 2016
-
----
-
-## Related Resources
-
----
-
-## Image Credits
-
-
----
-
-## Looking at a building
-### Baltimore Trust Company Building, 10 Light Street
-
---
-
-[![- Baltimore Trust Company Building, 10 Light Street, Baltimore, Independent City, MD](http://cdn.loc.gov/service/pnp/habshaer/md/md1500/md1566/color/214965cr.jpg)](http://www.loc.gov/pictures/item/md1566.color.214965c/resource/)
-
-Note: Front
-
---
-
-[![Baltimore Trust Company Building, 10 Light Street, Baltimore, Independent City, MD
-](http://cdn.loc.gov/service/pnp/habshaer/md/md1500/md1566/color/214966cr.jpg)](http://www.loc.gov/pictures/item/md1566.color.214966c/resource/)
-
-Note: Back
-
---
-
-![Entrance - Baltimore Trust Company Building, 10 Light Street, Baltimore, Independent City, MD](http://cdn.loc.gov/service/pnp/habshaer/md/md1500/md1566/color/214971cr.jpg)
-
-Note: Visible Details
-
---
-
-![](http://cdn.loc.gov/service/pnp/habshaer/md/md1500/md1566/color/214968cr.jpg)
-
-Note: Less Visible Details
-
---
-
-![Detail - Baltimore Trust Company Building, 10 Light Street, Baltimore, Independent City, MD](http://cdn.loc.gov/service/pnp/habshaer/md/md1500/md1566/color/214973cr.jpg)
-
-Note: Small Details
-
---
-
 What size restrictions you can use images for?
-
----
 
 ## Conservation Resources
 
 - [Care, Handling, and Storage of Photographs - Library of Congress](http://loc.gov/preservation/care/photo.html)
+
+1. Combine image and text
+2. Share an image
+3. Create a slideshow as a class

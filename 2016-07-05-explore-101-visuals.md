@@ -38,10 +38,6 @@ Good stories about places use both words _and_ visuals.
 
 --
 
-![Camp of the Massachusetts second compy., light artillery at Stewart's Place, Baltimore, Md](http://cdn.loc.gov/service/pnp/ds/00100/00118v.jpg)
-
---
-
 # How do you "design" the stories you create?
 
 1. Learn the basic principles for design.
@@ -74,6 +70,12 @@ Where do you begin when you start to design?
 "The process", p.220
 
 From the [Non-Designers Design Book](https://www.amazon.com/Non-Designers-Design-Book-4th/dp/0133966151) by Robin Williams.
+
+See also:
+
+- [Clean Up Your Mess: A Guide to Visual Design for Everyone](http://www.visualmess.com/_media/images/contrast-circles.png)
+- [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
+- [Butterick’s Practical Typography](http://practicaltypography.com/)
 
 --
 
@@ -231,9 +233,9 @@ You are not _required_ to provide attribution when you reuse a work in the publi
 
 Attribution should include:
 
-- Source: Where did you get the image?
-- Creator: Who created the image?
-- Date: When was the image created?
+- **Source**: Where did you get the image?
+- **Creator**: Who created the image?
+- **Date**: When was the image created?
 
 Note:
 
@@ -283,6 +285,18 @@ Related Resources
 ---
 
 ## Let's look at some images
+
+--
+
+![“Harlem, the Country House of Dr. Edmondson,” by Nicolino V. Calyo, 1834. Courtesy Winterthur Museum Collections, 1968.0060 A.](http://i0.wp.com/baltimoreheritage.org/wp-content/uploads/2014/04/harlem-winterthur.jpg)
+
+--
+
+![Camp of the Massachusetts second compy., light artillery at Stewart's Place, Baltimore, Md](http://cdn.loc.gov/service/pnp/ds/00100/00118v.jpg)
+
+--
+
+![Colored Band, Maryland Workshop for the Blind. Courtesy UMBC Special Collections, Hughes Company Glass Negatives.](http://baltimoreheritage.org/wp-content/uploads/2014/03/Maryland_Workshop_for_the_Blind__colored_band-1024x816.jpg)
 
 --
 
@@ -476,7 +490,7 @@ Note: Photos courtesy Hughes Company, Library of Congress
 
 ## Graphics
 
-![Penn Station Graphic](/presentations/images/2016-07-05-penn-station-graphic.jpg)
+![Penn Station Graphic](/presentations/images/2016-07-05-penn-station-graphic.png)
 
 _Made with [Pablo](https://pablo.buffer.com/app/)_
 

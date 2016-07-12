@@ -8,7 +8,7 @@ Eli Pousson, [Baltimore Heritage](http://baltimoreheritage.org/) | July 12, 2016
 ## Introduction
 
 - Why does outreach matter for historic places?
-- How do you use "interpretation" for outreach?
+- How do you do "interpretation" for historic places?
 - What kinds of outreach can you do for historic places?
 
 ---
@@ -109,9 +109,7 @@ A lot of outreach around historic places is for **noncaptive audiences**.
 
 Note:
 
-**Activity 1**
-
-Create a work sheet
+We might make this activity optional.
 
 ---
 
@@ -140,7 +138,9 @@ Sam Ham argues that "good" interpretation:
 - is **relevant**
 - is **enjoyable**
 
-Note: Sam Ham uses the acronym TORE for short.
+Note:
+
+Sam Ham uses the acronym TORE for short. This approach is used by museum educators, tour guides, park rangers, and others.
 
 --
 

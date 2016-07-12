@@ -1,4 +1,4 @@
-## How to reach people around historic places in Baltimore
+## How to do outreach for historic places in Baltimore
 ### Explore Baltimore Heritage 101
 
 Eli Pousson, [Baltimore Heritage](http://baltimoreheritage.org/) | July 12, 2016
@@ -10,13 +10,14 @@ Eli Pousson, [Baltimore Heritage](http://baltimoreheritage.org/) | July 12, 2016
 - Why does outreach matter for historic places?
 - How do you use "interpretation" for outreach?
 - What kinds of outreach can you do for historic places?
-- How do you plan effective outreach?
 
 ---
 
 ## What is outreach?
 
-Outreach is a form of communication. You can use your story about a historic place as a way to **talk to people** in Baltimore and outside of Baltimore.
+Outreach is a form of **communication**.
+
+A story about a historic place is a way to **talk to people** in Baltimore and outside of Baltimore.
 
 Outreach around historic places is sometimes known as **interpretation**.
 
@@ -28,7 +29,7 @@ Note:
 - How do you want to communicate it?  (What communication channels will you use?)
 - Whom should you contact and what should you do in order to use those channels?  (How will you actually distribute your message?)
 
----
+--
 
 ## Why do you want to reach people?
 
@@ -55,7 +56,7 @@ Interpretation usually serves three main goals:
 	- Communicate knowledge
 	- Create or reinforce values, ideas, or beliefs
 
----
+--
 
 ## Who are you trying to reach?
 
@@ -77,7 +78,7 @@ Think about your audience as people you want to talk to and listen to. How do th
 - Behaviors: Are you trying to reach people who engage in a particular activity?
 - Attitudes: Are you trying to change people's minds?
 
----
+--
 
 ## How do you reach people?
 
@@ -100,6 +101,17 @@ A lot of outreach around historic places is for **noncaptive audiences**.
 - Who are the people you want to reach?
 - Why do you want to reach people?
 - What are some ways to reach people?
+
+--
+
+## Let's make an outreach plan
+
+
+Note:
+
+**Activity 1**
+
+Create a work sheet
 
 ---
 
@@ -181,13 +193,13 @@ Note:
 
 "Common everyday things make the best bridges."
 
-**Potential activity:** Come up with an analogy or simile for a historic place.
-
 --
 
 ### What makes information personal?
 
-People care when you connect the information to something they _care_ about; not just something they _know_ about. What do people care about?
+People care when you connect the information to something they _care_ about; not just something they _know_ about.
+
+What do people care about?
 
 Note:
 
@@ -197,15 +209,6 @@ NPS (Larsen, 2003) advanced idea of universal concepts:
 - Basic biological imperatives: birth, death, hunger, thirst
 - Human fascinations: uncertainty, cosmos, mystery, suspense
 
-**Potential activity:** Practice self-referencing
-
-Self-referencing: ask people to think about themselves and their own experiences as you give people new information; simple phrases that often increase interest level in communication.
-
-- "Think of the last time you..."
-- "Have you ever ...?"
-- "At one time or another, most of you have probably..."
-
-
 --
 
 ## Is your interpretation enjoyable?
@@ -214,11 +217,17 @@ Note:
 
 To be entertaining or engaging, interpretation must be enjoyable and organized and relevant.
 
+--
+
+## Let's create some interpretation
+
+Note:
+
 ---
 
-## How do you reach people?
+## How do you make an outreach plan happen?
 
-Today, let's talk about:
+Let's talk about:
 
 - public programs
 - websites and social media
@@ -257,7 +266,7 @@ Talk:
 
 --
 
-## Bus Tours
+###  Bus Tours
 
 ![Eigenbrot Brewery, Explore Southwest Baltimore Industrial Opportunities. Photo by Eli Pousson, 2015 May 29.](https://c1.staticflickr.com/1/511/18366935071_a0c19cedd3_b.jpg)
 
@@ -267,7 +276,7 @@ Source: [Baltimore Heritage/Flickr](https://www.flickr.com/photos/baltimoreherit
 
 --
 
-## Walking Tours
+### Walking Tours
 
 ![Student tour group, Patterson Park. Photo by Eli Pousson, 2014 April 23 ](https://c2.staticflickr.com/8/7505/16335924072_eb8c8f1718_b.jpg)
 
@@ -278,7 +287,7 @@ Source: [Baltimore Heritage/Flickr](https://www.flickr.com/photos/baltimoreherit
 
 --
 
-## Lectures
+### Lectures
 
 ![Rethinking Urban History from the Margins, Baltimore Heritage Fall Lecture, 2010 October 21](https://c2.staticflickr.com/2/1232/5104911655_d46d423664_b.jpg)
 
@@ -288,15 +297,28 @@ Source: [Baltimore Heritage/Flickr](https://www.flickr.com/photos/baltimoreherit
 
 --
 
-## What other kind of public programs could you organize?
+### Protests
 
-- Protest or rally
+![Dr. Helena Hicks, West Side Walking Tour with City Neighbors Charter School, February 12, 2011](https://c2.staticflickr.com/6/5258/5450983851_1e900879eb_b.jpg)
+
+Note:
+
+Source: [Baltimore Heritage/Flickr](https://www.flickr.com/photos/baltimoreheritage/5450983851/)
+
+What other kind of public programs could you organize?
+
 - Scavenger hunt
 - Photography meet-up
+- Open house
 
----
+--
 
-## Let's plan a walking tour
+## What do you think about when you plan a public program?
+
+- Promotion
+- Logistics
+- Content
+- Engagement
 
 Note:
 
@@ -307,6 +329,23 @@ TK: Information from Johns ten tips for better walking tours.
 - Planning
 - Logistics
 - Follow up
+
+--
+
+## How do you evaluate the success of a public program?
+
+- How many people participated?
+- Did people have a positive experience?
+- Did people have the experience you intended?
+- Did you learn anything by organizing the program?
+
+Note:
+
+Additional questions:
+
+- Are they the people who came the people you hoped to reach?
+- Did you build any new relationships by organizing the program?
+- Could you do it again?
 
 ---
 
@@ -321,7 +360,37 @@ Note:
 
 --
 
+## Why should you use the web and social media to talk about historic places?
 
+--
+
+<iframe src="http://www.pewinternet.org/chart/social-networking-use-has-shot-up-in-past-decade/iframe/" id="pew14735" scrolling="no" width="100%" height="800px" frameborder="0"></iframe> <script type='text/javascript'id='pew-iframe'>(function(){function async_load(){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src='http://www.pewinternet.org/wp-content/plugins/pew-scripts/js/iframeResizer.min.js';s.onload=s.onreadystatechange=function(){var rs=this.readyState;try{iFrameResize([],'iframe#pew14735')}catch(e){}};var embedder=document.getElementById('pew-iframe');embedder.parentNode.insertBefore(s,embedder)}if(window.attachEvent)window.attachEvent('onload',async_load);else window.addEventListener('load',async_load,false)})();</script>		
+
+Note:
+
+Chart: http://www.pewinternet.org/2015/10/08/social-networking-usage-2005-2015/
+
+Who can you reach with the web and social media?
+
+>Adoption: 87% of American adults now use the internet, with near-saturation usage among those living in households earning $75,000 or more (99%), young adults ages 18-29 (97%), and those with college degrees (97%). Fully 68% of adults connect to the internet with mobile devices like smartphones or tablet computers.
+
+Source: http://www.pewinternet.org/2014/02/27/the-web-at-25-in-the-u-s/
+
+--
+
+## What can you do with the web and social media?
+
+Note:
+
+- Hosting
+- Content Planning
+- Design
+
+Resources
+
+[Starting Out Organized: Website Content Planning The Right Way](https://www.smashingmagazine.com/2010/03/starting-out-organized-website-content-planning-the-right-way/) by Kristin Wemmer, Smashing Magazine, March 17th, 2010
+
+[Usability.gov](https://www.usability.gov/)
 
 --
 
@@ -353,11 +422,15 @@ Explore Baltimore Heritage
 
 Note:
 
+National Trust for Historic Preservation
+
 --
 
 ![#SOSBrutalism (Screenshot)](/presentations/images/2016-07-11-sos-brutalism.png)
 
 Note:
+
+\#SOSBrutalism
 
 --
 
@@ -369,32 +442,35 @@ McKeldin Fountain
 
 --
 
-Note:
-
-Baltimore's New Old House Forum
-
----
-
-## What does it mean to do do digital history? 
-
----
-
-## Building an online community
+![Northeast Baltimore History Roundtable Facebook Group (Screenshot)](/presentations/images/2016-07-12-northeast-baltimore-history-roundtable.png)
 
 Note:
+
+Northeast Baltimore History Roundtable
+
+Tips on building online communities:
 
 - Mix of in-person meetings and virtual conversations
 - Community guidelines to shape what is OK and not OK
 - Northeast Baltimore History Roundtable
 
-## Take Action
+--
 
-Do you want people to take action?
+## How do you evaluate the success of a website or social media?
 
-- Sign a petition
-- Contact an elected official
-- Volunteer time
-- Make a donation
+- **Reach**: People who read or see your website.
+- **Engagement**: People who interact (likes, comments, shares) with your website.
+- **Action**: People who take some action such as signing up for an email list or signing a petition.
+
+Note:
+
+Goals should be SMART:
+
+- Specific: Who, what, where, when, and why?
+- Measurable: They should include numbers and figures.
+- Attainable: Your goal should present a challenge, but not be impossible.
+- Relevant: Does your website goal fit with your overall marketing and business goals?
+- Time-bound: Do you want to reach this goal in a week? Six months? A year?
 
 ---
 
@@ -405,9 +481,13 @@ Eli Pousson, [Baltimore Heritage](http://baltimoreheritage.org/) | July 12, 2016
 
 Note:
 
+Additional notes!
 
-Photo for illustrating a Protest
+## Take Action
 
-![Dr. Helena Hicks, West Side Walking Tour with City Neighbors Charter School, February 12, 2011](https://c2.staticflickr.com/6/5258/5450983851_1e900879eb_b.jpg)
+Do you want people to take action?
 
-Source: [Baltimore Heritage/Flickr](https://www.flickr.com/photos/baltimoreheritage/5450983851/)
+- Sign a petition
+- Contact an elected official
+- Volunteer time
+- Make a donation

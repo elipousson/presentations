@@ -11,10 +11,6 @@ Eli Pousson and Johns Hopkins, [Baltimore Heritage](http://baltimoreheritage.org
 
 Note:
 
-Here are all the spreadsheets and maps we may reference in this presentation:
-
-- [Vacant Buildings - Historic Districts - Baltimore City](https://docs.google.com/spreadsheets/d/1fR7B9fbAblGgZVfb6_GFXeincgPruYjb5bWp811xLxs/edit?usp=sharing)
-
 --
 
 ## Who is Baltimore Heritage?
@@ -119,6 +115,21 @@ To achieve this goal, we have been regularly sharing the data, maps, and visuali
 
 We also want to be transparent about data sources and share any data we get in formats that people can use. We are already using Google Sheets to do this and experimenting with using GitHub.
 
+--
+
+
+## Where did we get our data?
+
+- We used open data from Baltimore City and the State of Maryland
+- We had to ask for data (not just PDFs)
+- We had to be persistent
+
+TK: Image of Socrata Open Baltimore Data Portal
+
+Note:
+
+Add links and screenshots as appropriate.
+
 ---
 
 ## How did we approach our analysis?
@@ -147,15 +158,13 @@ Note:
 	- demolition permits
 	- historic tax credits
 
---
+---
 
-## Charts
-
---
-
-## Maps
+## What did we learn from our data analysis?
 
 Note:
+
+- Our work is primarily description, about making it easier for us and others to understand and make connections.
 
 Explain how we did the analysis:
 
@@ -169,6 +178,110 @@ Explain how we visualized the analysis:
 - Chartbuilder (yay?)
 - CartoDB (yay!!)
 
+--
+
+TK: Charts on vacants in historic districts
+
+Note:
+
+- What proportion of vacants are in NR districts? Local districts?
+- What proportion of distressed vacants are in NR districts? Local districts?
+
+--
+
+### Where are vacant buildings and historic districts?
+
+<iframe width="100%" height="520" frameborder="0" src="https://baltimoreheritage.carto.com/viz/c1c5b24a-d032-11e5-9637-0e5db1731f59/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+Note:
+
+Map: [Vacant Building Notices and Historic Districts](https://baltimoreheritage.carto.com/viz/c1c5b24a-d032-11e5-9637-0e5db1731f59/public_map) (this map needs work)
+
+Google Sheet: [Vacant Buildings - Historic Districts - Baltimore City](https://docs.google.com/spreadsheets/d/1fR7B9fbAblGgZVfb6_GFXeincgPruYjb5bWp811xLxs/edit?usp=sharing) (this data may show different things than the map)
+
+--
+
+### Where are we tearing buildings down?
+
+<iframe width="100%" height="520" frameborder="0" src="https://baltimoreheritage.carto.com/viz/343fb512-0014-11e6-a407-0ecfd53eb7d3/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+Note:
+
+Map: [Demolition Permits in Baltimore City: 2015-2016](https://baltimoreheritage.carto.com/viz/343fb512-0014-11e6-a407-0ecfd53eb7d3/public_map)
+
+Google Sheet: [Baltimore City Demolition Permits - Data Dashboard](https://docs.google.com/spreadsheets/d/1fNvFRqc6AqL-Fy-jXyerqzBIfzWRCbHDJg6qAchywdE/edit?usp=sharing)
+
+--
+
+## Where do market conditions discourage reuse and rehabilitation in historic districts?
+
+<iframe width="100%" height="520" frameborder="0" src="https://elipousson.carto.com/viz/cacbb1ba-1b63-11e6-b4fd-0ecfd53eb7d3/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+Note:
+
+This map was created using QGIS and the CartoDB uploader. It is currently hosted on my personal elipousson CARTO account.
+
+Map: [Vacant Buildings in Stressed Markets and Historic Districts](https://elipousson.carto.com/viz/cacbb1ba-1b63-11e6-b4fd-0ecfd53eb7d3/public_map)
+
+--
+
+### Where are property owners neglecting their buildings?
+
+<iframe width="100%" height="520" frameborder="0" src="https://baltimoreheritage.carto.com/viz/b7346d6a-0018-11e6-ad61-0e8c56e2ffdb/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+Note:
+
+Map: [Failed to Abate Unsafe Structure Open Citations: 2016](https://baltimoreheritage.carto.com/viz/b7346d6a-0018-11e6-ad61-0e8c56e2ffdb/public_map)
+
+Google Sheet: [Failed to Abate Unsafe Structure - Data Dashboard](https://docs.google.com/spreadsheets/d/1iM2QJwN1LUZ9LzP5lMxSp3VR2XjibF2wtoN8ldY9re8/edit?usp=sharing)
+
+--
+
+### Where are property owners investing in rehabilitation?
+
+Map: TK
+
+Note:
+
+Map: TK
+
+Google Sheet: [Baltimore City Historic Property Tax Credit Program - Data (2003-2016)](https://docs.google.com/spreadsheets/d/1qh7NV7WyU8TxS0XLx0a3QvRYDSIfYHpXAFac7ttlJjE/edit?usp=sharing)
+
+--
+
+### Where are property owners investing in vacant buildings?
+
+<iframe width="100%" height="520" frameborder="0" src="https://elipousson.carto.com/viz/88fd2156-1b0e-11e6-9627-0e674067d321/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+Note:
+
+Map: [Where are permits being issued for vacant buildings in 2016? ](https://elipousson.carto.com/viz/88fd2156-1b0e-11e6-9627-0e674067d321/public_map) (This is currently hosted on my personal elipousson CARTO account.)
+
+Google Sheet: [Housing Permits for Vacant Buildings (2016)](https://docs.google.com/spreadsheets/d/10LpagmZana6lxO0aVemoDfrPjXPvTdLdTCPr9It09Jo/edit?usp=sharing)
+
+--
+
+## Where is Project CORE tearing down buildings?
+
+<iframe width="100%" height="520" frameborder="0" src="https://baltimoreheritage.carto.com/viz/68692646-0057-11e6-acec-0e3ff518bd15/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+Note:
+
+Related Blog post:
+
+Map: [CORE FY2016 Property List (Draft)](https://baltimoreheritage.carto.com/viz/68692646-0057-11e6-acec-0e3ff518bd15/public_map) (filtered to just show the demolition "T" clusters)
+
+Google Sheet: [CORE FY16 Property List (Redacted Draft)](https://docs.google.com/spreadsheets/d/14XhBjhaOR-9d1N1XGf-haJkYflohKR1OXmOQEAKtRi8/edit?usp=sharing)
+
+--
+
+## Is Project CORE tearing down buildings in historic districts?
+
+<iframe src="https://docs.google.com/spreadsheets/d/14XhBjhaOR-9d1N1XGf-haJkYflohKR1OXmOQEAKtRi8/pubchart?oid=1321192114&amp;format=interactive"></iframe>
+
+Note:
+
+Chart via [CORE FY16 Property List (Redacted Draft)](https://docs.google.com/spreadsheets/d/14XhBjhaOR-9d1N1XGf-haJkYflohKR1OXmOQEAKtRi8/edit?usp=sharing)
 
 ---
 
@@ -198,10 +311,7 @@ Eli Pousson and Johns Hopkins, [Baltimore Heritage](http://baltimoreheritage.org
 
 Note:
 
-Where did we get our data?
+Additional questions:
 
-TK: Image of Socrata Open Baltimore Data Portal
-
-What is the proportion of landuse in Baltimore historic districts? How does that compare to the city as a whole?
-
-What is the timeline for Baltimore's historic district designations?
+- What is the proportion of land use in Baltimore historic districts? How does that compare to the city as a whole?
+- What is the timeline for Baltimore's historic district designations?

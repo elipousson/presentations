@@ -92,7 +92,6 @@ Data can help us understand and focus our work on vacant buildings in a few diff
 
 Effective information system can work as an early warning system: “spotting potential problem properties and areas before it is too late to handle them effectively” and providing “timely information to individuals or organizations responsible for taking action.”
 
-
 This presentation is based on the past six months of experimenting and learning how we can incorporate data and mapping into our advocacy and outreach efforts. We are focused on how we can use these tools to inform and empower community residents in historic neighborhoods.
 
 - How are we using data in our work on Project CORE?
@@ -104,7 +103,7 @@ We want an early warning system. How can we know when properties are at-risk? Ho
 
 ---
 
-## Building a data and mapping toolbox
+# Building a data and mapping toolbox
 
 --
 
@@ -134,7 +133,7 @@ We are not experts but we do have a bit of insight on these three questions. The
 
 ---
 
-## Finding Data
+# Finding Data
 
 --
 
@@ -185,11 +184,11 @@ You may also need to tell  city and state staff about why you need a GIS data or
 
 ---
 
-## Applying your tools
+# Applying your tools
 
 --
 
-![Toolbox graphic](/presentations/images/2016-07-19-toolbox-graphic.png)
+![Placemaking by LA Great Streets, US, The Noun Project (PD)](/presentations/images/noun_476738.png)
 
 Note:
 
@@ -243,7 +242,7 @@ One final tool in our toolbox isn't a technology but an approach. We try to **sh
 
 ---
 
-## Learning from data
+# Learning from data
 
 Note:
 
@@ -304,7 +303,9 @@ Note:
 
 We can see the continued neglect of buildings in some neighborhoods by looking at citation data.
 
-Baltimore Housing has used the new "Failed to Abate Unsafe Structure" citation to target neglectful property owners and encourage them to take action to mitigate the harm a vacant building can bring to a community. By looking at open citations, you can see where property owners are not doing enough.
+Baltimore Housing has used the new "Failed to Abate Unsafe Structure" citation to target neglectful property owners and encourage them to take action to mitigate the harm a vacant building can bring to a community.
+
+By looking at open citations, you can see where property owners are not doing enough. You can also see neighborhoods where Baltimore Housing is _not_ using this citation because it is difficult to cite a property owner when too many other buildings on the block are vacant.
 
 Map: [Failed to Abate Unsafe Structure Open Citations: 2016](https://baltimoreheritage.carto.com/viz/b7346d6a-0018-11e6-ad61-0e8c56e2ffdb/public_map)
 
@@ -334,11 +335,11 @@ Google Sheet: [Baltimore City Demolition Permits - Data Dashboard](https://docs.
 
 ### Where are property owners investing in rehabilitation?
 
-Note:
-
 --
 
 Map: TK
+
+Note:
 
 Google Sheet: [Baltimore City Historic Property Tax Credit Program - Data (2003-2016)](https://docs.google.com/spreadsheets/d/1qh7NV7WyU8TxS0XLx0a3QvRYDSIfYHpXAFac7ttlJjE/edit?usp=sharing)
 

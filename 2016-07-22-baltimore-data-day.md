@@ -27,8 +27,7 @@ Note:
 
 Eli Pousson, our Director of Preservation and Advocacy, put together this presentation and is leading our efforts to incorporate data and mapping into our preservation advocacy.
 
-We've posted our slides and notes online at[bit.ly/bmoreheritagedataday16](http://bit.ly/bmoreheritagedataday16)
-where you can find links to more information for everything we talk about today.
+We've posted our slides and notes online at [bit.ly/bmoreheritagedataday16](http://bit.ly/bmoreheritagedataday16) where you can find links to more information for everything we talk about today.
 
 ---
 
@@ -56,11 +55,11 @@ How can preservation be a more effective ally to neighborhoods struggling with l
 
 --
 
-<iframe width="960" height="700" frameborder="0" scrolling="no" src="https://plot.ly/~baltimoreheritage/3.embed"></iframe>
+![Vacant building notices by market typology](/presentations/images/2016-07-21-vbn-chart.png)
 
 Note:
 
-There are 16,638 vacant building notices in Baltimore City.  7,018 of those, over 40% of the total, are located inside historic districts listed on the National Register of Historic Places. 4,878 of that subset, about 70%, are located on blocks described as "stressed" by the Baltimore Housing Market Typology.
+The overlap between preservation and vacancy is evident when you look at Baltimore's 16,638 vacant building notices.  7,018 of those, over 40% of the total, are located inside historic districts listed on the National Register of Historic Places. 4,878 of that subset, about 70%, are located on blocks described as "stressed" by the Baltimore Housing Market Typology.
 
 When so many designated historic buildings are deteriorating from abandonment and neglect it makes it difficult to know where to focus our efforts. We know we can't save every vacant building in Baltimore. But, as the number of buildings targeted for demolition expands under Project CORE, we run the risk of losing important landmarks and fragmenting historic neighborhoods.
 
@@ -90,7 +89,7 @@ Note:
 
 Data can help us understand and focus our work on vacant buildings in a few different ways.
 
-Effective information system can work as an early warning system: “spotting potential problem properties and areas before it is too late to handle them effectively” and providing “timely information to individuals or organizations responsible for taking action.”
+Information can be an early warning system: “spotting potential problem properties and areas before it is too late" for us to get involved.
 
 This presentation is based on the past six months of experimenting and learning how we can incorporate data and mapping into our advocacy and outreach efforts. We are focused on how we can use these tools to inform and empower community residents in historic neighborhoods.
 
@@ -111,7 +110,7 @@ We want an early warning system. How can we know when properties are at-risk? Ho
 
 Note:
 
-We are interested in sharing our experience with community organizations and small nonprofits who care about housing, community development, and historic preservation. We're also really interested in hearing from you about how you think we can use data to inform decision-making and educate residents, board members, and other stakeholders.
+We are interested in sharing our experience with community organizations and small nonprofits who care about housing, community development, and historic preservation. We're also interested in hearing from you about how you think we can use data to inform decision-making and educate residents, board members, and other stakeholders.
 
 Image: [Old toolbox, February 22, 2007, skistz/Flickr (CC BY-SA 2.0)](https://www.flickr.com/photos/skistz/398429879/)
 
@@ -142,6 +141,7 @@ We are not experts but we do have a bit of insight on these three questions. The
 Note:
 
 We are using data that you can find for free online from Baltimore City and the State of Maryland. We are looking for information about both individual properties and whole neighborhoods.
+
 --
 
 ![Open Baltimore (Screenshot)](/presentations/images/2016-07-14-open-baltimore.png)
@@ -321,11 +321,7 @@ Google Sheet: [Failed to Abate Unsafe Structure - Data Dashboard](https://docs.g
 
 Note:
 
-In some cases, demolition is seen as the only option.
-
-Looking at the history of demolition permits over the past 14 years, East Baltimore stands out: Middle East, Broadway East, Oliver top the list of neighborhoods with the greatest number of demolition permits and South Clifton Park comes in fifth. West Baltimore is also represented with 208 demolition permits issued in Sandtown-Winchester, 154 in Harlem Park, and 143 in Poppleton.
-
-<!-- This map just shows 2011-2016 - we should update the description here to focus on that period. -->
+Between 2011 and 2015, Baltimore issued 1,991 demolition permits. East Baltimore stands out: Broadway East and Coldstream Homestead Montebello top the list of neighborhoods with the greatest number of demolition permits. Oliver, Middle East, and Johnston Square join those neighborhoods in the top ten. The Old West Baltimore Historic District, made up of the Upton, Harlem Park, Sandtown-Winchester, Druid Heights, and Madison Park neighborhoods, has seen 173 demolition permits in that same period.
 
 Map: [Demolition Permits and Historic Districts (2011-2016)](https://baltimoreheritage.carto.com/viz/343fb512-0014-11e6-a407-0ecfd53eb7d3/public_map)
 
@@ -337,9 +333,11 @@ Google Sheet: [Baltimore City Demolition Permits - Data Dashboard](https://docs.
 
 --
 
-Map: TK
+![CHAP Tax Credits by Historic District](/presentations/images/CHAP_tax_credits_by_historic_district_2011-2015.png)
 
 Note:
+
+Between 2011 and 2015, Southeast Baltimore neighborhoods led the city in using CHAP historic tax credits for rehabilitation projects. In addition to the significant investment in Canton and Patterson Park/Highlandtown, the CHAP tax credit also supported 68 projects in the Old East Baltimore Historic District ($9,092,149 invested), 33 projects in Union Square	($5,707,367 invested), and 24 projects in Broadway East/South Clifton Park ($4,756,218 invested). In 2016, Broadway East/South Clifton Park has seen a remarkable 55 certified historic	tax credit projects (a $10,153,343 investment).
 
 Google Sheet: [Baltimore City Historic Property Tax Credit Program - Data (2003-2016)](https://docs.google.com/spreadsheets/d/1qh7NV7WyU8TxS0XLx0a3QvRYDSIfYHpXAFac7ttlJjE/edit?usp=sharing)
 
@@ -363,7 +361,7 @@ Google Sheet: [CORE FY16 Property List (Redacted Draft)](https://docs.google.com
 
 --
 
-<iframe  width="960" height="700" frameborder="0" scrolling="no" src="https://plot.ly/~baltimoreheritage/5.embed"></iframe>
+![Project CORE demolition clusters by historic district](/presentations/images/2016-07-21-project-core-demo-clusters-chart.png)
 
 Note:
 
@@ -375,14 +373,15 @@ Chart via [CORE FY16 Property List (Redacted Draft)](https://docs.google.com/spr
 
 ---
 
-### What do we get out of using data in our advocacy?
-
-- **More effective advocacy**: Fight where our help is needed and wanted. Fight for what matters. Fight where we can actually make a difference.
-- **Greater resident participation**: Use data to help make the process more accessible and engaging to residents (both people who support preservation and those who want to see more demolition)
+## What do we get out of using data in our advocacy?
 
 --
 
 ## More effective advocacy
+
+Note:
+
+**More effective advocacy**: Fight where our help is needed and wanted. Fight for what matters. Fight where we can actually make a difference.
 
 --
 
@@ -390,7 +389,10 @@ Chart via [CORE FY16 Property List (Redacted Draft)](https://docs.google.com/spr
 
 Note:
 
-Our goal with a new Preservation Maryland funded project through the Community Law Center is to develop a workshop and toolkit for community groups in historic districts to ...
+
+**Greater resident participation**: Use data to help make the process more accessible and engaging to residents (both people who support preservation and those who want to see more demolition)
+
+Mention the new partnership with the Community Law Center.
 
 ---
 

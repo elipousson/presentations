@@ -1,5 +1,5 @@
-# Action Agenda
-## Historic Preservation in Legacy Cities
+# Ideas to Action
+## Setting a Course for Legacy City Preservation
 
 [Preservation Rightsizing Network](https://rightsizeplace.org/), 2016 September 15
 
@@ -9,7 +9,7 @@ Note:
 
 ---
 
-Follow the presentation: [bit.ly/prn-detroit](https://bit.ly/prn-detroitdialogue)
+Follow the presentation: [**bit.ly/prn-detroitdialogue**](https://bit.ly/prn-detroitdialogue)
 
 ---
 
@@ -335,7 +335,7 @@ Legacy cities: a very exciting place to work!
 
 ---
 
-# Action Agenda
-## Historic Preservation in Legacy Cities
+# Ideas to Action
+## Setting a Course for Legacy City Preservation
 
 [Preservation Rightsizing Network](https://rightsizeplace.org/), 2016 September 15

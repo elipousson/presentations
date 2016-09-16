@@ -303,11 +303,7 @@ Note:
 
 --
 
-![Rustbelt Coalition of Young Preservationists Meet-Up in Buffalo, New York. Photograph by Sarah Marsom, 2016 August 19.](/presentations/images/2016-08-19-rustbelt-marsom.jpg)
-
-Note:
-
-Example: [The Rust Belt Coalition of Young Preservationists](https://www.facebook.com/groups/191384604551130/)
+[The Rust Belt Coalition of Young Preservationists](https://www.facebook.com/groups/191384604551130/)
 
 --
 

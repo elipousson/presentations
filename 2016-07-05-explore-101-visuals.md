@@ -73,7 +73,7 @@ From the [Non-Designers Design Book](https://www.amazon.com/Non-Designers-Design
 
 See also:
 
-- [Clean Up Your Mess: A Guide to Visual Design for Everyone](http://www.visualmess.com/_media/images/contrast-circles.png)
+- [Clean Up Your Mess: A Guide to Visual Design for Everyone](http://www.visualmess.com/)
 - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
 - [Butterick’s Practical Typography](http://practicaltypography.com/)
 
